@@ -64,13 +64,13 @@ def load_data():
         data_manager = DataManager()
         
         # Load all data types
-        ai_tutor_data = data_manager.load_data('AI Tutor')
-        ai_mentor_data = data_manager.load_data('AI Mentor')
-        ai_impact_data = data_manager.load_data('AI Impact')
-        ai_tkt_data = data_manager.load_data('AI TKT')
-        unit_performance_data = data_manager.load_data('Unit Performance')
-        cr_data = data_manager.load_data('CR (Corporate Relations)')
-        prp_data = data_manager.load_data('PRP (Placement Readiness Program)')
+        ai_tutor_data = data_manager.load_existing_data('AI Tutor')
+        ai_mentor_data = data_manager.load_existing_data('AI Mentor')
+        ai_impact_data = data_manager.load_existing_data('AI Impact')
+        ai_tkt_data = data_manager.load_existing_data('AI TKT')
+        unit_performance_data = data_manager.load_existing_data('Unit Performance')
+        cr_data = data_manager.load_existing_data('CR (Corporate Relations)')
+        prp_data = data_manager.load_existing_data('PRP (Placement Readiness Program)')
         
         return {
             'ai_tutor': ai_tutor_data,
