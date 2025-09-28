@@ -1,0 +1,201 @@
+Campus (SG/MUM/SYD/DXB),Course(GCGM/MGM/GMBA),Cohort,Unit_Name,Batch_size(number should come from student feedback form),Faculty Name,Faculty_Email_ID,Unit_Commencement_date,Unit_End_Date,No_of_Session_IDs_created,Total_Students_Participated_watched videos,Total_Students_Attempted_AI Tutor Platform Quiz,Average Score of AI Tutor Platform Quiz,No_of_students_who_filled_student feedback form,Faculty_Rating_provide by students,AI_Tutor_quality_score,AI_Tutor_impact_score,Avg_Rating_for_AI_Tutor_Tool,Faculty_Implemented_AI_Tutor_efficiently(Yes/No),No. of Quizzes_conducted,AI_Quizzes_used_for_grading,Average_ Quiz_Score,Faculty_Feedback
+SG,GCGM,Jul-24,Unit 3,27,Prof_Davis,prof_92@spjain.edu,28-Sep-2024,02-Sep-2025,12,18,17,63.6,18,3.63,3.84,3.06,3.83,No,6,Yes,80.1,Negative
+SYD,GCGM,Jul-22,Unit 6,33,Prof_Garcia,prof_69@spjain.edu,24-Jun-2025,26-Aug-2025,15,23,18,67.5,20,3.65,3.76,3.72,4.02,No,4,Yes,85.2,Neutral
+SYD,GMBA,Jul-22,Unit 6,22,Prof_Davis,prof_86@spjain.edu,12-Apr-2025,02-Sep-2025,6,16,13,94.5,13,4.8,3.76,3.91,4.75,Yes,3,Yes,74.3,Positive
+MUM,MGB,Jul-23,Unit 3,49,Prof_Miller,prof_28@spjain.edu,25-Sep-2024,09-Sep-2025,25,46,35,84.0,36,3.84,3.06,3.63,3.9,No,3,No,87.8,Positive
+SYD,GCGM,Jul-22,Unit 6,37,Prof_Johnson,prof_20@spjain.edu,09-Oct-2024,19-Sep-2025,22,30,30,75.0,28,4.1,3.44,5.0,4.26,No,2,Yes,83.9,Negative
+DXB,GMBA,Jul-23,Unit 5,28,Prof_Wilson,prof_65@spjain.edu,27-May-2025,08-Sep-2025,22,16,16,85.2,16,4.63,4.54,3.68,3.94,Yes,3,No,76.3,Positive
+MUM,MGB,Jul-22,Unit 5,50,Prof_Johnson,prof_11@spjain.edu,21-Dec-2024,29-Aug-2025,21,30,30,71.3,24,3.67,3.73,4.97,4.71,Yes,3,Yes,66.4,Positive
+DXB,GMBA,Jul-22,Unit 3,36,Prof_Davis,prof_29@spjain.edu,25-Jul-2025,14-Sep-2025,24,34,26,92.5,30,4.57,3.8,4.34,4.06,Yes,6,Yes,76.3,Positive
+SG,GCGM,Jul-24,Unit 6,21,Prof_Garcia,prof_32@spjain.edu,27-Dec-2024,30-Aug-2025,12,13,9,90.1,10,4.27,3.56,3.97,4.31,No,7,Yes,88.4,Very Positive
+SG,GMBA,Jul-23,Unit 3,33,Prof_Garcia,prof_18@spjain.edu,22-Jan-2025,19-Sep-2025,18,26,18,83.6,25,3.65,3.81,3.68,4.79,No,3,No,69.8,Positive
+SG,MGB,Jan-24,Unit 1,21,Prof_Smith,prof_22@spjain.edu,13-Feb-2025,24-Sep-2025,25,20,20,60.5,16,4.89,4.7,3.33,4.23,No,3,No,86.6,Negative
+SYD,MGB,Jul-24,Unit 6,45,Prof_Garcia,prof_65@spjain.edu,28-Nov-2024,19-Sep-2025,22,42,31,66.6,36,4.95,4.16,4.08,4.62,Yes,2,Yes,66.3,Positive
+SG,GMBA,Jan-22,Unit 6,47,Prof_Wilson,prof_27@spjain.edu,19-Mar-2025,17-Sep-2025,12,40,29,93.0,35,4.37,3.08,3.16,4.49,No,6,No,78.1,Positive
+SYD,MGB,Jan-23,Unit 1,20,Prof_Wilson,prof_79@spjain.edu,26-Sep-2024,08-Sep-2025,19,13,9,78.8,12,3.7,3.7,3.14,3.87,Yes,4,No,68.9,Very Positive
+MUM,MGB,Jan-22,Unit 1,43,Prof_Smith,prof_12@spjain.edu,06-Oct-2024,11-Sep-2025,22,29,24,69.9,24,4.58,3.41,4.27,3.9,No,5,Yes,71.3,Very Positive
+SYD,GCGM,Jul-24,Unit 3,25,Prof_Brown,prof_56@spjain.edu,22-Jun-2025,23-Sep-2025,19,23,22,79.6,18,3.61,4.77,4.81,4.32,No,8,No,74.2,Very Positive
+SYD,GCGM,Jul-24,Unit 2,41,Prof_Brown,prof_53@spjain.edu,14-Aug-2025,19-Sep-2025,8,35,32,90.9,34,4.96,4.5,4.85,3.86,No,3,No,89.4,Positive
+SYD,GCGM,Jul-24,Unit 1,32,Prof_Miller,prof_36@spjain.edu,22-Jul-2025,31-Aug-2025,6,32,29,67.8,32,4.02,4.64,4.74,3.83,No,7,No,69.8,Negative
+SYD,GCGM,Jan-22,Unit 3,25,Prof_Davis,prof_33@spjain.edu,04-Aug-2025,02-Sep-2025,23,19,13,63.8,18,4.02,4.57,3.87,4.98,No,2,Yes,74.6,Positive
+SYD,MGB,Jan-22,Unit 6,49,Prof_Brown,prof_25@spjain.edu,23-Jan-2025,03-Sep-2025,15,48,43,83.2,39,4.58,3.6,3.62,4.11,No,5,Yes,82.4,Neutral
+DXB,GMBA,Jan-22,Unit 3,29,Prof_Johnson,prof_37@spjain.edu,06-Dec-2024,03-Sep-2025,11,23,21,76.3,21,4.51,4.02,4.59,4.94,No,7,Yes,69.2,Positive
+SYD,GCGM,Jul-22,Unit 2,20,Prof_Davis,prof_19@spjain.edu,25-Sep-2024,02-Sep-2025,6,15,13,81.4,12,4.18,4.77,4.15,4.58,Yes,5,Yes,77.4,Negative
+MUM,GCGM,Jul-24,Unit 5,34,Prof_Garcia,prof_79@spjain.edu,11-Dec-2024,11-Sep-2025,6,28,22,92.1,22,4.18,4.6,4.34,4.98,No,6,Yes,72.9,Negative
+DXB,MGB,Jul-22,Unit 6,28,Prof_Davis,prof_50@spjain.edu,09-Jun-2025,02-Sep-2025,21,23,19,69.6,18,4.57,3.47,3.67,4.84,Yes,2,Yes,68.5,Negative
+DXB,MGB,Jan-24,Unit 4,33,Prof_Miller,prof_39@spjain.edu,08-Feb-2025,28-Aug-2025,6,22,21,73.6,21,4.92,3.04,4.76,4.36,No,5,Yes,65.1,Negative
+MUM,MGB,Jul-23,Unit 4,20,Prof_Jones,prof_76@spjain.edu,11-Nov-2024,03-Sep-2025,17,17,16,83.8,16,4.59,4.68,4.84,4.97,Yes,6,Yes,65.7,Negative
+MUM,MGB,Jul-22,Unit 1,28,Prof_Garcia,prof_3@spjain.edu,23-Nov-2024,23-Sep-2025,17,21,17,75.9,18,4.64,3.76,4.5,4.75,No,4,Yes,85.9,Very Positive
+SG,GCGM,Jul-22,Unit 2,46,Prof_Johnson,prof_100@spjain.edu,04-Jun-2025,15-Sep-2025,5,46,34,68.3,43,4.5,4.13,3.44,4.55,Yes,8,Yes,74.2,Neutral
+DXB,MGB,Jul-24,Unit 2,22,Prof_Jones,prof_85@spjain.edu,18-Feb-2025,22-Sep-2025,23,16,11,84.4,14,4.78,4.2,3.24,4.98,No,8,Yes,66.0,Negative
+DXB,GCGM,Jul-23,Unit 3,40,Prof_Wilson,prof_42@spjain.edu,23-Apr-2025,29-Aug-2025,19,28,25,66.2,26,4.95,3.54,4.62,4.31,Yes,5,No,76.6,Negative
+MUM,MGB,Jan-24,Unit 5,41,Prof_Wilson,prof_72@spjain.edu,21-Aug-2025,08-Sep-2025,17,34,23,77.3,32,3.77,3.42,4.6,4.01,Yes,6,Yes,82.5,Positive
+DXB,MGB,Jan-24,Unit 2,42,Prof_Miller,prof_55@spjain.edu,18-Nov-2024,14-Sep-2025,20,40,35,87.8,33,3.94,3.81,3.49,4.5,No,4,No,76.8,Neutral
+SYD,MGB,Jul-22,Unit 1,43,Prof_Wilson,prof_13@spjain.edu,19-May-2025,15-Sep-2025,11,35,25,86.0,30,3.79,4.48,3.55,4.38,Yes,8,No,78.1,Positive
+SYD,GCGM,Jul-24,Unit 5,24,Prof_Garcia,prof_44@spjain.edu,24-May-2025,23-Sep-2025,13,14,9,79.4,12,4.46,4.51,3.21,3.52,No,4,No,76.7,Very Positive
+SG,MGB,Jul-23,Unit 1,38,Prof_Davis,prof_100@spjain.edu,02-Dec-2024,12-Sep-2025,25,23,18,65.2,22,4.92,3.17,3.5,4.34,No,5,No,80.2,Neutral
+DXB,MGB,Jan-24,Unit 5,21,Prof_Garcia,prof_38@spjain.edu,10-Aug-2025,17-Sep-2025,24,13,10,81.9,12,4.49,3.31,3.35,3.61,No,2,No,75.2,Negative
+SG,GMBA,Jul-22,Unit 3,45,Prof_Smith,prof_22@spjain.edu,22-Mar-2025,05-Sep-2025,25,45,41,88.1,39,4.14,4.09,4.3,4.86,No,8,No,68.6,Very Positive
+DXB,GMBA,Jan-23,Unit 6,32,Prof_Smith,prof_98@spjain.edu,11-Apr-2025,06-Sep-2025,13,27,26,77.3,21,4.4,4.78,4.47,4.41,Yes,2,Yes,67.3,Negative
+DXB,MGB,Jul-22,Unit 5,33,Prof_Garcia,prof_37@spjain.edu,02-Feb-2025,29-Aug-2025,25,32,29,93.9,32,4.02,3.67,4.34,4.79,Yes,4,No,75.3,Very Positive
+SYD,MGB,Jan-23,Unit 1,44,Prof_Smith,prof_27@spjain.edu,12-Apr-2025,07-Sep-2025,17,42,42,94.6,41,4.19,3.11,4.04,4.43,Yes,5,No,80.6,Negative
+DXB,GCGM,Jan-22,Unit 6,39,Prof_Brown,prof_64@spjain.edu,30-Mar-2025,08-Sep-2025,12,28,23,79.3,26,4.11,3.45,4.68,3.67,No,2,No,81.2,Negative
+DXB,GCGM,Jul-23,Unit 5,24,Prof_Smith,prof_37@spjain.edu,27-Mar-2025,29-Aug-2025,17,17,15,77.8,14,4.8,3.55,4.58,4.12,No,8,Yes,77.7,Negative
+DXB,MGB,Jan-23,Unit 5,44,Prof_Garcia,prof_91@spjain.edu,12-Feb-2025,12-Sep-2025,22,38,33,92.6,33,4.97,3.48,3.77,4.78,Yes,5,No,66.1,Very Positive
+MUM,GMBA,Jan-24,Unit 3,47,Prof_Wilson,prof_44@spjain.edu,11-Oct-2024,02-Sep-2025,8,42,30,78.4,40,3.52,3.29,4.74,4.95,No,2,Yes,76.7,Neutral
+DXB,MGB,Jul-24,Unit 6,48,Prof_Johnson,prof_57@spjain.edu,02-Jun-2025,02-Sep-2025,20,45,31,81.6,39,4.45,4.84,4.99,4.62,No,5,Yes,89.5,Very Positive
+SYD,GCGM,Jan-23,Unit 3,31,Prof_Davis,prof_64@spjain.edu,01-Nov-2024,20-Sep-2025,18,20,15,78.6,20,4.52,3.36,3.35,4.41,Yes,5,No,80.5,Neutral
+DXB,MGB,Jul-24,Unit 1,48,Prof_Garcia,prof_39@spjain.edu,17-May-2025,12-Sep-2025,19,37,35,79.1,30,4.16,3.69,4.18,4.46,No,5,Yes,82.3,Positive
+DXB,GMBA,Jan-23,Unit 5,29,Prof_Wilson,prof_100@spjain.edu,01-May-2025,05-Sep-2025,14,17,17,83.0,15,3.51,4.73,4.56,4.96,No,6,Yes,83.6,Positive
+SYD,GMBA,Jul-24,Unit 6,41,Prof_Brown,prof_26@spjain.edu,20-Jun-2025,30-Aug-2025,9,27,18,70.8,24,3.55,3.73,3.26,4.86,No,4,No,83.7,Positive
+SYD,MGB,Jan-23,Unit 6,47,Prof_Miller,prof_12@spjain.edu,05-Feb-2025,24-Sep-2025,15,31,28,93.7,26,4.63,3.45,4.35,4.51,No,5,Yes,89.2,Negative
+SYD,GMBA,Jul-24,Unit 6,28,Prof_Johnson,prof_82@spjain.edu,01-Jan-2025,26-Aug-2025,23,22,20,63.8,18,4.21,4.24,4.89,3.99,No,6,No,70.5,Very Positive
+MUM,GCGM,Jan-22,Unit 3,35,Prof_Brown,prof_54@spjain.edu,25-Sep-2024,21-Sep-2025,8,22,18,91.1,18,4.08,3.74,4.9,4.54,No,6,No,75.5,Neutral
+SG,GMBA,Jan-23,Unit 2,34,Prof_Johnson,prof_59@spjain.edu,11-Jul-2025,03-Sep-2025,19,23,21,63.5,23,4.05,4.8,4.29,3.59,Yes,4,Yes,69.7,Very Positive
+SYD,GCGM,Jul-22,Unit 5,26,Prof_Brown,prof_70@spjain.edu,20-Apr-2025,30-Aug-2025,7,23,19,80.5,19,3.99,3.3,4.8,3.5,Yes,8,Yes,89.6,Very Positive
+MUM,GCGM,Jan-23,Unit 2,38,Prof_Johnson,prof_58@spjain.edu,12-Dec-2024,17-Sep-2025,15,22,17,69.3,18,4.61,4.05,4.49,4.21,Yes,8,No,74.1,Negative
+SG,GCGM,Jul-23,Unit 4,33,Prof_Miller,prof_49@spjain.edu,25-Oct-2024,08-Sep-2025,8,26,25,62.6,20,3.98,3.3,3.25,4.44,No,6,No,78.7,Negative
+SG,GMBA,Jan-22,Unit 6,40,Prof_Wilson,prof_48@spjain.edu,09-Jun-2025,03-Sep-2025,22,30,27,75.8,25,4.12,4.65,3.8,4.59,No,4,Yes,75.7,Very Positive
+SG,GCGM,Jul-23,Unit 1,43,Prof_Smith,prof_37@spjain.edu,23-Oct-2024,15-Sep-2025,16,29,28,62.1,27,4.34,4.34,3.82,4.81,No,8,Yes,75.6,Positive
+MUM,GMBA,Jul-23,Unit 2,47,Prof_Smith,prof_78@spjain.edu,12-Apr-2025,24-Sep-2025,8,39,35,72.9,35,4.36,4.61,4.69,4.96,Yes,8,No,80.5,Neutral
+SYD,MGB,Jan-22,Unit 2,47,Prof_Miller,prof_21@spjain.edu,18-Feb-2025,15-Sep-2025,9,46,42,74.0,38,4.61,4.94,3.18,4.3,No,5,Yes,75.5,Very Positive
+MUM,GCGM,Jan-24,Unit 1,41,Prof_Wilson,prof_87@spjain.edu,27-Oct-2024,09-Sep-2025,7,32,29,83.2,32,4.41,3.83,3.43,4.27,No,4,Yes,75.7,Positive
+DXB,GMBA,Jan-22,Unit 1,26,Prof_Davis,prof_65@spjain.edu,13-Nov-2024,29-Aug-2025,14,18,18,64.8,16,3.93,3.24,3.99,4.15,No,3,Yes,74.5,Negative
+SG,MGB,Jan-22,Unit 4,49,Prof_Garcia,prof_89@spjain.edu,22-Feb-2025,22-Sep-2025,7,39,36,75.0,37,4.56,3.84,3.23,3.53,No,4,Yes,69.3,Positive
+DXB,GMBA,Jul-23,Unit 5,22,Prof_Miller,prof_45@spjain.edu,30-Sep-2024,29-Aug-2025,17,17,16,71.9,15,4.67,3.15,4.27,4.3,Yes,3,Yes,87.6,Very Positive
+MUM,MGB,Jul-22,Unit 2,39,Prof_Miller,prof_81@spjain.edu,18-Mar-2025,20-Sep-2025,9,25,19,93.3,25,4.24,4.51,4.52,4.17,No,6,Yes,81.1,Negative
+DXB,GMBA,Jan-23,Unit 3,38,Prof_Johnson,prof_79@spjain.edu,26-Oct-2024,08-Sep-2025,6,33,31,62.6,33,4.18,3.11,4.66,3.62,No,8,No,89.4,Very Positive
+DXB,GMBA,Jul-24,Unit 2,30,Prof_Brown,prof_6@spjain.edu,22-Apr-2025,02-Sep-2025,24,25,25,65.3,20,4.18,4.62,4.67,4.97,No,2,No,77.6,Positive
+SYD,MGB,Jan-23,Unit 4,33,Prof_Brown,prof_43@spjain.edu,16-Jul-2025,06-Sep-2025,15,29,29,61.8,28,4.47,3.13,3.19,4.52,Yes,4,No,71.3,Neutral
+DXB,GCGM,Jan-24,Unit 6,50,Prof_Johnson,prof_83@spjain.edu,22-Jan-2025,08-Sep-2025,7,39,35,73.2,36,4.72,4.34,4.66,4.61,No,7,Yes,87.8,Neutral
+SYD,GCGM,Jul-22,Unit 3,50,Prof_Smith,prof_85@spjain.edu,07-Mar-2025,27-Aug-2025,20,36,28,95.0,30,3.62,4.69,3.2,4.66,Yes,8,No,83.5,Positive
+MUM,GCGM,Jul-24,Unit 5,45,Prof_Wilson,prof_61@spjain.edu,19-May-2025,13-Sep-2025,10,41,28,74.4,35,4.95,4.22,4.5,4.68,No,3,No,78.4,Neutral
+DXB,GMBA,Jan-24,Unit 4,50,Prof_Johnson,prof_37@spjain.edu,15-Jul-2025,31-Aug-2025,10,36,34,64.8,32,3.58,3.96,3.74,4.9,Yes,7,No,86.1,Negative
+MUM,MGB,Jan-22,Unit 2,46,Prof_Johnson,prof_92@spjain.edu,28-Sep-2024,14-Sep-2025,19,38,26,74.5,36,4.25,3.47,4.99,4.06,Yes,2,Yes,73.0,Very Positive
+SYD,MGB,Jul-24,Unit 2,44,Prof_Johnson,prof_100@spjain.edu,01-Apr-2025,17-Sep-2025,20,40,37,60.2,33,3.53,3.43,3.3,4.91,No,6,Yes,78.2,Very Positive
+MUM,MGB,Jul-24,Unit 5,34,Prof_Davis,prof_74@spjain.edu,25-Jan-2025,19-Sep-2025,7,21,21,80.9,16,4.45,4.15,4.44,3.94,Yes,2,No,80.4,Very Positive
+SG,MGB,Jul-23,Unit 1,40,Prof_Miller,prof_18@spjain.edu,04-Aug-2025,13-Sep-2025,17,35,28,86.2,33,4.68,3.69,4.47,4.44,No,8,Yes,79.5,Negative
+DXB,GMBA,Jul-22,Unit 2,22,Prof_Wilson,prof_5@spjain.edu,29-Sep-2024,18-Sep-2025,19,13,11,67.1,11,4.83,3.63,3.62,4.1,No,8,No,78.6,Very Positive
+SYD,MGB,Jan-22,Unit 3,33,Prof_Johnson,prof_94@spjain.edu,21-Jan-2025,22-Sep-2025,17,30,28,91.3,27,4.01,3.37,4.38,4.05,No,8,Yes,78.0,Neutral
+SYD,GCGM,Jan-22,Unit 3,41,Prof_Jones,prof_36@spjain.edu,03-Oct-2024,30-Aug-2025,14,33,30,81.1,32,3.75,3.89,3.89,4.59,Yes,4,Yes,80.4,Negative
+SYD,GMBA,Jul-24,Unit 6,25,Prof_Smith,prof_78@spjain.edu,09-Jun-2025,03-Sep-2025,5,17,17,81.3,16,3.55,3.13,4.56,4.05,No,5,No,88.7,Neutral
+DXB,GCGM,Jan-24,Unit 2,36,Prof_Wilson,prof_91@spjain.edu,10-Jan-2025,18-Sep-2025,16,33,28,82.7,29,4.94,3.05,3.37,4.28,No,6,No,67.9,Positive
+SG,GCGM,Jan-22,Unit 4,25,Prof_Brown,prof_47@spjain.edu,09-Dec-2024,17-Sep-2025,19,16,16,93.9,14,4.5,4.42,4.1,3.94,Yes,4,Yes,86.3,Positive
+MUM,MGB,Jan-22,Unit 3,37,Prof_Jones,prof_99@spjain.edu,29-Jan-2025,29-Aug-2025,23,33,30,88.1,28,4.42,3.17,3.62,5.0,Yes,7,Yes,77.0,Neutral
+SG,MGB,Jul-23,Unit 6,36,Prof_Brown,prof_39@spjain.edu,03-Jun-2025,19-Sep-2025,16,25,25,82.4,21,4.65,3.26,4.01,4.8,No,8,Yes,68.1,Neutral
+SYD,GCGM,Jan-23,Unit 2,40,Prof_Miller,prof_73@spjain.edu,05-Aug-2025,29-Aug-2025,22,32,24,81.9,26,4.25,3.34,4.88,3.73,Yes,7,Yes,80.6,Very Positive
+SYD,GMBA,Jul-22,Unit 5,33,Prof_Wilson,prof_59@spjain.edu,20-Jul-2025,02-Sep-2025,24,29,20,77.4,28,4.32,4.28,3.6,3.87,Yes,8,Yes,82.1,Negative
+DXB,MGB,Jul-23,Unit 2,30,Prof_Johnson,prof_41@spjain.edu,25-Apr-2025,10-Sep-2025,24,20,16,90.2,18,4.6,4.72,4.95,3.7,Yes,4,No,77.9,Negative
+MUM,GCGM,Jan-22,Unit 1,29,Prof_Garcia,prof_66@spjain.edu,30-Dec-2024,09-Sep-2025,17,26,24,68.7,26,4.85,4.63,4.87,4.58,No,3,No,84.1,Very Positive
+SG,MGB,Jan-24,Unit 4,50,Prof_Johnson,prof_56@spjain.edu,19-Jun-2025,27-Aug-2025,12,36,34,72.4,28,3.92,4.2,4.69,4.51,No,4,No,78.4,Negative
+SYD,GCGM,Jul-23,Unit 1,38,Prof_Johnson,prof_17@spjain.edu,08-Jul-2025,12-Sep-2025,22,28,24,79.4,22,4.08,3.9,4.1,4.74,No,6,No,82.0,Neutral
+MUM,GCGM,Jan-24,Unit 5,32,Prof_Miller,prof_21@spjain.edu,06-Feb-2025,05-Sep-2025,21,19,13,61.4,17,4.71,4.04,3.3,4.84,No,3,No,73.2,Negative
+SYD,MGB,Jan-22,Unit 3,30,Prof_Davis,prof_93@spjain.edu,31-Jul-2025,06-Sep-2025,8,24,20,87.9,24,4.81,4.26,4.19,3.9,No,7,Yes,84.6,Negative
+MUM,GMBA,Jul-22,Unit 1,38,Prof_Smith,prof_91@spjain.edu,17-Jun-2025,08-Sep-2025,8,28,19,75.4,25,3.73,4.38,3.82,4.66,Yes,5,No,86.8,Negative
+DXB,MGB,Jul-22,Unit 4,49,Prof_Wilson,prof_99@spjain.edu,01-Apr-2025,02-Sep-2025,22,39,35,72.4,35,4.42,3.38,3.49,4.34,Yes,3,No,88.5,Neutral
+DXB,MGB,Jan-24,Unit 6,28,Prof_Wilson,prof_92@spjain.edu,17-Jul-2025,13-Sep-2025,14,17,15,83.7,16,4.84,3.79,3.69,4.66,No,3,No,72.3,Negative
+MUM,GCGM,Jan-24,Unit 3,49,Prof_Miller,prof_92@spjain.edu,28-Dec-2024,21-Sep-2025,22,37,27,63.8,32,3.86,4.34,4.06,4.46,Yes,2,Yes,67.5,Positive
+DXB,GMBA,Jul-23,Unit 4,40,Prof_Smith,prof_23@spjain.edu,25-Jan-2025,27-Aug-2025,11,33,28,70.0,26,4.86,3.18,4.15,4.3,Yes,7,Yes,86.3,Negative
+DXB,GCGM,Jul-24,Unit 3,48,Prof_Brown,prof_65@spjain.edu,30-Dec-2024,16-Sep-2025,6,28,23,79.9,22,4.89,3.67,3.91,4.46,Yes,6,Yes,77.3,Neutral
+MUM,GMBA,Jul-23,Unit 6,28,Prof_Miller,prof_12@spjain.edu,02-Feb-2025,03-Sep-2025,10,16,16,71.8,14,4.35,4.51,3.35,4.78,Yes,5,Yes,85.7,Positive
+DXB,MGB,Jul-22,Unit 1,28,Prof_Johnson,prof_60@spjain.edu,22-Mar-2025,19-Sep-2025,17,19,16,86.4,17,3.95,4.45,3.02,4.48,No,7,No,70.9,Very Positive
+SYD,MGB,Jan-24,Unit 2,27,Prof_Davis,prof_98@spjain.edu,22-Apr-2025,03-Sep-2025,9,23,18,75.9,22,4.06,4.4,4.83,4.64,Yes,8,No,81.6,Neutral
+SG,GMBA,Jan-22,Unit 1,46,Prof_Johnson,prof_66@spjain.edu,10-Jan-2025,30-Aug-2025,22,43,33,80.0,36,3.75,4.71,3.88,4.52,Yes,7,No,79.6,Positive
+DXB,MGB,Jan-24,Unit 1,37,Prof_Smith,prof_9@spjain.edu,28-Dec-2024,23-Sep-2025,19,31,21,73.9,24,4.62,4.16,3.09,4.02,No,2,No,78.5,Positive
+MUM,GMBA,Jul-24,Unit 6,50,Prof_Johnson,prof_23@spjain.edu,24-Nov-2024,12-Sep-2025,18,41,34,75.7,38,4.06,4.37,4.32,4.31,Yes,7,Yes,86.5,Very Positive
+SG,MGB,Jul-23,Unit 6,43,Prof_Smith,prof_85@spjain.edu,24-Jan-2025,05-Sep-2025,22,38,34,73.3,33,3.87,3.69,3.55,4.91,Yes,7,Yes,84.1,Positive
+SG,GCGM,Jan-24,Unit 1,34,Prof_Wilson,prof_30@spjain.edu,05-Nov-2024,14-Sep-2025,24,30,21,68.6,24,4.1,3.47,3.43,4.8,No,2,Yes,68.5,Neutral
+MUM,GMBA,Jan-24,Unit 2,33,Prof_Miller,prof_83@spjain.edu,12-Feb-2025,30-Aug-2025,14,23,16,79.5,22,4.82,4.82,4.25,4.14,No,5,No,66.2,Negative
+MUM,MGB,Jul-23,Unit 2,44,Prof_Brown,prof_50@spjain.edu,24-Apr-2025,16-Sep-2025,22,41,31,89.7,36,4.79,3.29,3.93,3.59,Yes,5,No,89.2,Very Positive
+DXB,MGB,Jan-22,Unit 5,43,Prof_Davis,prof_62@spjain.edu,12-May-2025,28-Aug-2025,11,26,22,73.2,24,4.4,4.75,3.38,4.64,No,7,No,81.8,Very Positive
+MUM,GCGM,Jul-24,Unit 1,43,Prof_Wilson,prof_34@spjain.edu,23-Feb-2025,08-Sep-2025,20,32,31,84.6,31,4.87,4.1,4.55,4.07,No,6,No,81.2,Very Positive
+DXB,MGB,Jul-22,Unit 3,30,Prof_Miller,prof_30@spjain.edu,13-Feb-2025,06-Sep-2025,18,18,16,90.2,15,3.52,4.11,4.17,4.58,Yes,4,No,68.8,Neutral
+SYD,MGB,Jul-24,Unit 6,43,Prof_Smith,prof_68@spjain.edu,09-Aug-2025,29-Aug-2025,20,39,29,85.6,36,3.75,4.44,3.98,4.88,Yes,6,Yes,89.8,Very Positive
+DXB,GCGM,Jul-24,Unit 2,22,Prof_Smith,prof_69@spjain.edu,17-Nov-2024,11-Sep-2025,9,13,10,77.7,12,3.59,4.28,4.87,4.87,Yes,7,Yes,77.2,Neutral
+SYD,GCGM,Jan-24,Unit 6,41,Prof_Johnson,prof_48@spjain.edu,31-Jan-2025,10-Sep-2025,18,29,21,92.1,27,3.72,3.38,4.05,4.72,Yes,4,Yes,84.9,Neutral
+SG,GMBA,Jul-24,Unit 1,22,Prof_Johnson,prof_68@spjain.edu,05-Aug-2025,17-Sep-2025,17,19,16,79.3,15,4.46,4.41,3.17,4.77,Yes,7,No,84.6,Neutral
+SG,GCGM,Jul-24,Unit 3,48,Prof_Johnson,prof_39@spjain.edu,04-Jun-2025,06-Sep-2025,22,46,42,61.2,41,3.52,3.41,3.29,4.73,Yes,8,No,75.0,Neutral
+DXB,GMBA,Jul-22,Unit 6,43,Prof_Jones,prof_100@spjain.edu,12-Mar-2025,24-Sep-2025,7,41,39,94.1,32,3.65,3.46,3.15,4.41,No,6,No,88.9,Negative
+MUM,MGB,Jan-24,Unit 4,33,Prof_Brown,prof_95@spjain.edu,08-Feb-2025,14-Sep-2025,10,29,29,83.1,23,4.66,3.59,3.49,3.61,No,4,Yes,68.9,Very Positive
+SG,MGB,Jul-23,Unit 3,44,Prof_Miller,prof_50@spjain.edu,20-Aug-2025,15-Sep-2025,13,29,22,63.1,26,4.17,4.11,3.82,3.54,No,4,No,78.9,Very Positive
+MUM,GMBA,Jan-24,Unit 2,41,Prof_Miller,prof_33@spjain.edu,22-Apr-2025,01-Sep-2025,17,29,22,69.4,25,4.24,3.13,3.87,4.13,No,5,Yes,84.6,Negative
+SG,GCGM,Jan-23,Unit 1,50,Prof_Miller,prof_78@spjain.edu,16-May-2025,09-Sep-2025,17,40,37,73.3,37,4.16,3.86,4.65,4.48,No,6,Yes,68.4,Negative
+SYD,MGB,Jul-24,Unit 6,40,Prof_Smith,prof_94@spjain.edu,02-Jan-2025,02-Sep-2025,20,31,26,73.2,30,4.05,4.86,3.4,5.0,Yes,3,No,82.0,Neutral
+SG,MGB,Jul-24,Unit 4,24,Prof_Jones,prof_70@spjain.edu,08-Aug-2025,30-Aug-2025,25,18,13,68.8,15,4.57,4.58,3.15,4.99,No,5,Yes,79.6,Very Positive
+MUM,GMBA,Jul-24,Unit 3,25,Prof_Johnson,prof_34@spjain.edu,05-May-2025,08-Sep-2025,25,24,16,79.7,24,4.52,3.8,4.51,4.95,Yes,5,No,67.6,Neutral
+DXB,MGB,Jul-24,Unit 5,42,Prof_Wilson,prof_44@spjain.edu,05-Jan-2025,30-Aug-2025,21,29,25,94.9,26,3.66,3.83,4.92,3.67,Yes,7,No,68.5,Neutral
+DXB,GCGM,Jul-23,Unit 6,42,Prof_Brown,prof_71@spjain.edu,06-Jun-2025,14-Sep-2025,19,35,25,70.5,29,3.53,3.69,3.22,4.7,No,7,No,71.1,Positive
+DXB,GMBA,Jul-22,Unit 2,40,Prof_Johnson,prof_74@spjain.edu,05-Jul-2025,30-Aug-2025,18,36,25,85.8,31,4.17,3.86,3.01,3.82,Yes,4,No,83.8,Neutral
+MUM,MGB,Jan-22,Unit 3,41,Prof_Wilson,prof_79@spjain.edu,28-Oct-2024,22-Sep-2025,20,40,38,71.0,38,4.42,4.17,3.7,4.77,Yes,6,No,69.3,Very Positive
+MUM,MGB,Jan-22,Unit 2,31,Prof_Brown,prof_72@spjain.edu,02-Jun-2025,09-Sep-2025,9,26,24,74.6,21,4.36,3.85,3.97,4.31,No,7,Yes,88.3,Positive
+SYD,MGB,Jan-24,Unit 1,47,Prof_Garcia,prof_63@spjain.edu,02-Jun-2025,22-Sep-2025,16,28,26,64.8,28,4.08,4.12,4.31,4.11,Yes,5,Yes,75.4,Neutral
+SG,MGB,Jul-22,Unit 5,29,Prof_Miller,prof_70@spjain.edu,05-Aug-2025,31-Aug-2025,10,29,27,79.8,29,4.65,4.1,3.23,3.67,No,8,Yes,78.6,Negative
+SG,GMBA,Jul-24,Unit 2,29,Prof_Miller,prof_91@spjain.edu,18-Oct-2024,04-Sep-2025,6,24,20,72.2,19,4.16,4.99,4.55,3.86,No,8,Yes,83.4,Positive
+MUM,GCGM,Jan-22,Unit 5,31,Prof_Brown,prof_97@spjain.edu,28-Jan-2025,26-Aug-2025,22,22,17,71.3,22,3.94,4.15,4.9,4.27,Yes,7,No,85.4,Positive
+MUM,GCGM,Jul-22,Unit 6,30,Prof_Johnson,prof_52@spjain.edu,06-Dec-2024,01-Sep-2025,12,30,27,77.1,28,4.45,4.26,3.75,3.61,No,8,No,87.0,Negative
+DXB,MGB,Jan-24,Unit 1,47,Prof_Wilson,prof_42@spjain.edu,03-Apr-2025,14-Sep-2025,7,42,39,83.2,38,4.78,4.59,3.8,4.95,Yes,8,No,70.3,Neutral
+SG,GCGM,Jan-22,Unit 6,45,Prof_Wilson,prof_21@spjain.edu,08-Apr-2025,22-Sep-2025,19,27,19,92.5,22,4.16,3.0,4.92,3.8,No,7,No,87.7,Very Positive
+SYD,GMBA,Jul-24,Unit 2,21,Prof_Davis,prof_67@spjain.edu,11-Jan-2025,24-Sep-2025,17,16,16,84.5,13,4.14,3.18,3.19,3.82,Yes,2,No,68.3,Very Positive
+DXB,GMBA,Jul-22,Unit 4,22,Prof_Brown,prof_83@spjain.edu,14-Jun-2025,22-Sep-2025,12,19,13,85.6,15,3.65,3.74,3.6,4.07,Yes,8,Yes,83.8,Negative
+SYD,GMBA,Jul-22,Unit 6,43,Prof_Jones,prof_41@spjain.edu,16-Jun-2025,17-Sep-2025,9,38,35,84.0,33,3.63,3.2,4.5,4.38,No,5,Yes,73.8,Positive
+SYD,GMBA,Jan-22,Unit 6,48,Prof_Johnson,prof_31@spjain.edu,14-Dec-2024,04-Sep-2025,14,34,31,81.2,30,4.62,3.59,3.11,4.85,Yes,3,Yes,77.4,Neutral
+SYD,GCGM,Jul-23,Unit 5,33,Prof_Jones,prof_65@spjain.edu,02-Apr-2025,04-Sep-2025,16,27,20,86.7,27,3.61,4.17,3.03,3.82,No,2,No,88.7,Negative
+SG,GMBA,Jan-24,Unit 5,39,Prof_Johnson,prof_40@spjain.edu,15-Jan-2025,01-Sep-2025,9,31,22,70.8,27,4.96,3.31,3.65,4.38,Yes,8,Yes,85.9,Positive
+SG,MGB,Jan-22,Unit 4,39,Prof_Miller,prof_67@spjain.edu,05-Dec-2024,30-Aug-2025,24,24,20,83.3,24,4.61,3.24,4.42,4.55,No,3,Yes,77.4,Neutral
+MUM,GMBA,Jan-23,Unit 6,48,Prof_Miller,prof_8@spjain.edu,14-Dec-2024,28-Aug-2025,8,28,24,88.2,24,4.29,3.53,4.95,4.44,Yes,5,No,76.4,Positive
+SYD,GCGM,Jan-24,Unit 6,43,Prof_Jones,prof_29@spjain.edu,15-Mar-2025,17-Sep-2025,8,32,30,60.1,25,3.87,3.94,3.77,3.73,No,8,No,65.9,Neutral
+SG,GMBA,Jan-23,Unit 1,36,Prof_Johnson,prof_71@spjain.edu,05-Jan-2025,24-Sep-2025,6,26,21,88.2,20,4.93,3.14,3.93,3.92,No,8,Yes,72.8,Neutral
+SYD,GMBA,Jan-24,Unit 2,34,Prof_Smith,prof_30@spjain.edu,22-Nov-2024,13-Sep-2025,16,29,27,94.9,29,3.79,4.8,4.52,3.87,Yes,2,No,88.3,Very Positive
+DXB,GMBA,Jul-24,Unit 3,23,Prof_Jones,prof_90@spjain.edu,17-Feb-2025,10-Sep-2025,11,21,17,74.7,16,4.96,3.28,3.56,3.57,Yes,3,Yes,87.4,Positive
+DXB,GCGM,Jan-24,Unit 5,21,Prof_Johnson,prof_26@spjain.edu,18-Jun-2025,31-Aug-2025,18,14,10,70.2,13,4.89,3.79,4.66,3.99,Yes,5,Yes,71.8,Very Positive
+MUM,MGB,Jul-23,Unit 3,33,Prof_Smith,prof_28@spjain.edu,12-Mar-2025,20-Sep-2025,8,27,23,93.8,22,4.18,3.93,4.7,3.64,Yes,8,Yes,82.2,Neutral
+DXB,GMBA,Jan-22,Unit 6,29,Prof_Smith,prof_8@spjain.edu,05-May-2025,20-Sep-2025,13,19,13,93.3,18,4.33,4.1,3.19,3.65,Yes,8,No,68.5,Neutral
+SG,GMBA,Jan-24,Unit 3,49,Prof_Garcia,prof_7@spjain.edu,01-Jun-2025,26-Aug-2025,7,29,21,66.9,28,4.17,3.26,4.81,4.74,No,4,No,68.1,Negative
+SG,MGB,Jul-24,Unit 4,25,Prof_Garcia,prof_8@spjain.edu,13-Jul-2025,16-Sep-2025,16,18,13,69.6,17,4.83,3.07,4.24,3.87,No,4,Yes,77.5,Negative
+MUM,GMBA,Jan-24,Unit 2,40,Prof_Brown,prof_4@spjain.edu,16-Mar-2025,05-Sep-2025,22,24,22,87.4,21,4.22,4.56,3.69,4.35,Yes,4,Yes,74.7,Neutral
+SG,MGB,Jan-24,Unit 3,44,Prof_Jones,prof_46@spjain.edu,30-May-2025,19-Sep-2025,23,33,25,63.5,29,3.9,4.63,4.83,3.58,Yes,3,No,79.4,Neutral
+SG,GMBA,Jul-24,Unit 3,50,Prof_Johnson,prof_8@spjain.edu,29-Apr-2025,05-Sep-2025,23,48,37,79.7,41,4.76,4.62,4.94,4.31,Yes,3,Yes,77.3,Negative
+SG,MGB,Jan-24,Unit 2,45,Prof_Miller,prof_10@spjain.edu,16-Feb-2025,02-Sep-2025,9,37,36,66.2,34,3.59,3.3,4.41,3.71,No,2,Yes,86.2,Neutral
+SYD,MGB,Jul-22,Unit 2,43,Prof_Jones,prof_40@spjain.edu,29-Mar-2025,20-Sep-2025,18,40,38,71.1,40,4.54,4.86,4.57,3.83,Yes,6,Yes,85.4,Negative
+SG,GCGM,Jan-24,Unit 3,49,Prof_Johnson,prof_91@spjain.edu,03-Oct-2024,01-Sep-2025,24,36,35,79.8,35,3.71,4.49,3.48,4.97,No,3,No,80.9,Very Positive
+SYD,GCGM,Jul-22,Unit 6,22,Prof_Jones,prof_45@spjain.edu,20-Nov-2024,12-Sep-2025,16,17,17,63.8,13,3.57,3.88,3.84,3.75,Yes,5,No,77.3,Positive
+MUM,MGB,Jan-22,Unit 1,29,Prof_Garcia,prof_91@spjain.edu,11-Aug-2025,11-Sep-2025,5,22,19,93.3,17,4.01,4.78,3.32,3.61,Yes,2,No,73.4,Positive
+SG,GCGM,Jan-23,Unit 2,26,Prof_Garcia,prof_20@spjain.edu,30-Jul-2025,13-Sep-2025,18,26,26,85.3,25,4.31,4.32,3.59,3.64,Yes,5,No,79.3,Very Positive
+SYD,GMBA,Jul-24,Unit 5,35,Prof_Wilson,prof_12@spjain.edu,02-Oct-2024,07-Sep-2025,11,22,15,67.2,22,3.94,3.16,4.69,3.96,No,5,Yes,76.8,Neutral
+DXB,MGB,Jul-22,Unit 4,21,Prof_Jones,prof_97@spjain.edu,29-Oct-2024,17-Sep-2025,13,19,16,69.2,17,4.35,3.3,4.39,3.65,Yes,7,No,73.6,Negative
+DXB,GMBA,Jul-22,Unit 4,29,Prof_Brown,prof_28@spjain.edu,20-May-2025,20-Sep-2025,7,23,16,77.6,22,4.7,4.36,4.24,3.68,Yes,8,No,76.2,Very Positive
+DXB,GCGM,Jul-24,Unit 2,46,Prof_Smith,prof_90@spjain.edu,11-Oct-2024,06-Sep-2025,24,35,29,91.9,29,3.63,4.11,4.1,4.78,No,6,Yes,76.5,Negative
+MUM,GCGM,Jan-24,Unit 5,38,Prof_Smith,prof_23@spjain.edu,07-Apr-2025,12-Sep-2025,8,25,18,87.5,24,4.82,4.76,3.53,4.48,Yes,6,No,80.2,Very Positive
+DXB,MGB,Jul-24,Unit 2,21,Prof_Wilson,prof_96@spjain.edu,12-Jan-2025,31-Aug-2025,20,16,13,60.7,14,3.97,4.69,4.72,4.53,No,8,No,70.7,Negative
+SG,GCGM,Jul-23,Unit 2,49,Prof_Smith,prof_23@spjain.edu,20-May-2025,27-Aug-2025,18,44,42,78.1,40,4.73,4.03,3.32,3.97,Yes,6,Yes,75.1,Positive
+SG,MGB,Jan-22,Unit 3,42,Prof_Garcia,prof_76@spjain.edu,17-Nov-2024,13-Sep-2025,11,33,28,88.8,32,4.45,3.25,3.06,4.06,No,6,Yes,76.2,Neutral
+SG,MGB,Jan-22,Unit 4,21,Prof_Smith,prof_61@spjain.edu,20-Jun-2025,04-Sep-2025,10,21,17,90.0,21,3.84,3.41,4.3,4.27,Yes,8,Yes,84.5,Positive
+SYD,GMBA,Jan-23,Unit 6,50,Prof_Johnson,prof_1@spjain.edu,08-Dec-2024,03-Sep-2025,25,38,32,91.3,35,4.19,3.44,3.6,4.28,No,6,No,74.9,Neutral
+SG,MGB,Jan-22,Unit 3,28,Prof_Jones,prof_85@spjain.edu,16-Mar-2025,03-Sep-2025,25,21,18,69.1,21,4.93,4.3,3.38,4.28,Yes,3,Yes,87.5,Negative
+SYD,MGB,Jul-23,Unit 4,32,Prof_Wilson,prof_22@spjain.edu,14-Nov-2024,19-Sep-2025,6,28,28,88.6,24,4.59,3.44,4.07,4.68,No,7,Yes,74.0,Negative
+MUM,GMBA,Jan-23,Unit 6,45,Prof_Wilson,prof_60@spjain.edu,27-Jun-2025,09-Sep-2025,22,32,32,91.5,26,3.83,3.45,4.74,4.13,Yes,4,Yes,74.3,Negative
+MUM,GMBA,Jan-22,Unit 6,32,Prof_Brown,prof_100@spjain.edu,16-Jul-2025,09-Sep-2025,21,23,22,61.9,19,3.71,3.4,3.82,4.35,No,5,Yes,68.6,Neutral
+SG,GCGM,Jul-23,Unit 3,26,Prof_Smith,prof_69@spjain.edu,16-May-2025,01-Sep-2025,10,24,18,77.1,19,3.69,3.87,3.86,4.14,No,5,Yes,74.6,Neutral
+MUM,GCGM,Jul-24,Unit 1,40,Prof_Garcia,prof_94@spjain.edu,03-Dec-2024,05-Sep-2025,12,31,26,70.9,25,4.08,4.18,3.33,4.74,No,4,No,88.7,Positive
+SYD,MGB,Jan-23,Unit 2,25,Prof_Smith,prof_49@spjain.edu,03-Oct-2024,16-Sep-2025,17,15,11,67.9,13,3.82,3.04,4.01,3.68,Yes,7,Yes,81.3,Very Positive
+SG,GCGM,Jul-24,Unit 1,33,Prof_Wilson,prof_80@spjain.edu,20-Oct-2024,02-Sep-2025,19,25,18,79.2,23,4.55,3.41,4.37,3.51,Yes,5,No,81.5,Very Positive
+SG,MGB,Jan-22,Unit 1,35,Prof_Davis,prof_89@spjain.edu,23-Dec-2024,14-Sep-2025,11,30,24,87.2,30,4.28,3.4,4.41,3.94,Yes,2,Yes,78.7,Very Positive
+SG,GCGM,Jan-24,Unit 6,35,Prof_Johnson,prof_23@spjain.edu,06-Aug-2025,28-Aug-2025,9,22,16,85.3,17,4.86,4.29,3.91,4.97,No,4,No,76.6,Neutral
+DXB,GMBA,Jan-22,Unit 1,47,Prof_Miller,prof_24@spjain.edu,29-Jun-2025,12-Sep-2025,6,28,21,83.2,23,3.99,4.79,4.91,3.9,No,7,No,67.3,Neutral
+DXB,GMBA,Jul-23,Unit 4,40,Prof_Garcia,prof_24@spjain.edu,18-Oct-2024,12-Sep-2025,10,27,20,84.4,21,4.97,4.69,3.21,4.87,No,5,Yes,85.1,Positive
+DXB,MGB,Jan-22,Unit 4,34,Prof_Miller,prof_67@spjain.edu,02-Dec-2024,02-Sep-2025,6,21,18,82.9,16,4.56,4.36,4.54,4.36,Yes,6,No,70.6,Positive
+DXB,MGB,Jul-24,Unit 6,40,Prof_Brown,prof_10@spjain.edu,18-Dec-2024,14-Sep-2025,17,28,27,91.2,26,3.58,4.29,3.31,4.77,Yes,8,No,77.4,Neutral
+SG,GMBA,Jul-22,Unit 5,40,Prof_Smith,prof_14@spjain.edu,01-Feb-2025,11-Sep-2025,17,36,28,62.8,35,4.7,3.9,4.71,4.17,Yes,2,Yes,89.5,Very Positive
+SYD,GMBA,Jan-24,Unit 2,40,Prof_Garcia,prof_15@spjain.edu,08-Jul-2025,31-Aug-2025,19,34,28,88.9,30,4.77,3.66,4.53,4.4,Yes,7,Yes,81.4,Neutral
+SYD,GMBA,Jan-23,Unit 5,36,Prof_Johnson,prof_51@spjain.edu,08-May-2025,10-Sep-2025,16,24,16,91.4,22,3.71,4.43,4.44,3.66,Yes,6,No,69.9,Very Positive
+DXB,GCGM,Jul-24,Unit 6,38,Prof_Garcia,prof_66@spjain.edu,28-May-2025,02-Sep-2025,8,36,32,83.0,36,3.7,4.0,4.06,3.57,Yes,5,Yes,86.0,Very Positive
+DXB,GMBA,Jan-24,Unit 5,48,Prof_Brown,prof_18@spjain.edu,27-Jan-2025,05-Sep-2025,15,44,44,73.5,44,4.87,4.52,3.55,4.95,No,4,No,76.3,Positive
+MUM,GCGM,Jan-24,Unit 6,29,Prof_Miller,prof_72@spjain.edu,24-Dec-2024,06-Sep-2025,16,27,20,94.3,26,4.96,3.36,4.08,4.46,No,7,No,67.9,Negative
+SG,GMBA,Jan-22,Unit 1,32,Prof_Wilson,prof_27@spjain.edu,22-Nov-2024,23-Sep-2025,9,19,18,62.0,17,4.63,3.32,3.57,3.88,No,8,No,66.6,Very Positive
+MUM,GMBA,Jul-24,Unit 5,32,Prof_Smith,prof_2@spjain.edu,20-Apr-2025,18-Sep-2025,12,27,22,84.3,21,4.89,3.78,4.91,4.96,No,4,Yes,89.1,Neutral
+MUM,GMBA,Jul-22,Unit 3,34,Prof_Wilson,prof_1@spjain.edu,10-Mar-2025,10-Sep-2025,10,30,22,66.5,25,4.6,3.24,3.08,3.92,Yes,4,Yes,68.3,Positive
+SYD,GMBA,Jan-22,Unit 6,39,Prof_Brown,prof_54@spjain.edu,21-Nov-2024,07-Sep-2025,14,38,38,80.0,35,3.61,4.42,4.05,4.94,No,6,Yes,66.7,Neutral
+MUM,GCGM,Jul-24,Unit 3,30,Prof_Miller,prof_58@spjain.edu,25-Apr-2025,27-Aug-2025,16,22,18,93.3,21,4.3,4.99,4.65,4.97,Yes,2,Yes,67.9,Neutral
+DXB,GCGM,Jul-23,Unit 3,37,Prof_Johnson,prof_22@spjain.edu,24-Nov-2024,07-Sep-2025,14,22,20,78.0,21,4.17,3.09,4.8,3.79,Yes,6,Yes,67.1,Positive
+MUM,GMBA,Jul-23,Unit 1,26,Prof_Brown,prof_33@spjain.edu,14-Nov-2024,22-Sep-2025,22,26,24,82.6,20,4.62,3.31,3.92,4.0,Yes,2,No,66.8,Negative
+DXB,MGB,Jul-24,Unit 4,33,Prof_Johnson,prof_46@spjain.edu,12-Dec-2024,21-Sep-2025,15,19,16,83.6,19,3.51,4.44,3.13,4.62,No,2,No,82.5,Very Positive

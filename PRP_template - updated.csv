@@ -1,0 +1,401 @@
+Student Roll No.,Student Name,Email id,Course,Cohort,Year,Term-1,Term-2,Term-3,No. of JPT Mock Interviews attempted and scored equal or above 80%,Area Head Mock Interview Score,No. of Allocated Interview Attempts,"Categorise student overall (Outstanding, Good, Average, Needs Handholding)",Placed/Not Placed,"If placed, no. of interview attempts required for placement"
+SPJ20248656,Student_1_Jul-23,student1@jul-23.spjain.edu,MGB,Jul-23,2024,92.8,71.9,74.4,0,81.3,6,Outstanding,Not Placed,0
+SPJ20249684,Student_2_Jan-22,student2@jan-22.spjain.edu,GCGM,Jan-22,2024,71.2,86.6,92.1,2,87.7,3,Average,Not Placed,0
+SPJ20236081,Student_3_Jul-23,student3@jul-23.spjain.edu,GCGM,Jul-23,2023,84.1,75.9,73.7,1,94.8,5,Outstanding,Not Placed,0
+SPJ20236817,Student_4_Jan-24,student4@jan-24.spjain.edu,GCGM,Jan-24,2023,88.2,83.8,71.0,0,83.1,4,Needs Handholding,Not Placed,0
+SPJ20245142,Student_5_Jan-24,student5@jan-24.spjain.edu,GCGM,Jan-24,2024,93.8,91.4,83.1,0,76.2,3,Outstanding,Not Placed,0
+SPJ20244176,Student_6_Jan-22,student6@jan-22.spjain.edu,GMBA,Jan-22,2024,92.9,88.5,76.5,1,85.9,6,Needs Handholding,Placed,5
+SPJ20223799,Student_7_Jul-24,student7@jul-24.spjain.edu,MGB,Jul-24,2022,83.2,71.6,76.7,2,76.3,8,Needs Handholding,Not Placed,0
+SPJ20249656,Student_8_Jan-24,student8@jan-24.spjain.edu,GMBA,Jan-24,2024,86.7,88.3,80.2,0,79.9,6,Good,Not Placed,0
+SPJ20227122,Student_9_Jul-22,student9@jul-22.spjain.edu,MGB,Jul-22,2022,77.7,89.5,72.1,1,80.8,8,Needs Handholding,Placed,6
+SPJ20227181,Student_10_Jan-22,student10@jan-22.spjain.edu,MGB,Jan-22,2022,80.1,75.7,86.9,1,80.9,8,Outstanding,Placed,8
+SPJ20234955,Student_11_Jul-23,student11@jul-23.spjain.edu,MGB,Jul-23,2023,91.6,82.8,94.0,4,93.3,3,Good,Placed,2
+SPJ20241615,Student_12_Jul-24,student12@jul-24.spjain.edu,GMBA,Jul-24,2024,83.0,90.8,76.9,1,87.2,8,Outstanding,Not Placed,0
+SPJ20246162,Student_13_Jul-24,student13@jul-24.spjain.edu,MGB,Jul-24,2024,71.4,91.3,76.0,0,94.4,5,Good,Not Placed,0
+SPJ20231791,Student_14_Jan-22,student14@jan-22.spjain.edu,GMBA,Jan-22,2023,88.2,90.2,90.1,0,89.2,6,Needs Handholding,Placed,5
+SPJ20221569,Student_15_Jul-22,student15@jul-22.spjain.edu,GMBA,Jul-22,2022,84.8,85.8,74.9,0,83.1,5,Good,Placed,4
+SPJ20224028,Student_16_Jan-22,student16@jan-22.spjain.edu,GMBA,Jan-22,2022,93.0,85.3,82.6,3,76.9,7,Needs Handholding,Placed,1
+SPJ20227181,Student_17_Jan-22,student17@jan-22.spjain.edu,GCGM,Jan-22,2022,84.7,78.4,80.4,1,91.8,7,Outstanding,Placed,6
+SPJ20247027,Student_18_Jul-23,student18@jul-23.spjain.edu,MGB,Jul-23,2024,87.6,76.6,77.1,0,94.2,6,Outstanding,Placed,4
+SPJ20229681,Student_19_Jan-23,student19@jan-23.spjain.edu,GMBA,Jan-23,2022,92.1,71.9,85.1,1,77.2,5,Good,Placed,4
+SPJ20228393,Student_20_Jan-23,student20@jan-23.spjain.edu,MGB,Jan-23,2022,84.7,88.9,80.2,2,78.2,4,Good,Placed,2
+SPJ20231348,Student_21_Jan-23,student21@jan-23.spjain.edu,MGB,Jan-23,2023,80.5,72.3,93.3,1,85.4,6,Outstanding,Not Placed,0
+SPJ20234161,Student_22_Jul-22,student22@jul-22.spjain.edu,MGB,Jul-22,2023,93.4,80.7,94.2,0,77.3,4,Needs Handholding,Placed,1
+SPJ20224487,Student_23_Jan-24,student23@jan-24.spjain.edu,GCGM,Jan-24,2022,79.0,79.9,85.2,1,78.1,6,Outstanding,Not Placed,0
+SPJ20228950,Student_24_Jul-22,student24@jul-22.spjain.edu,GCGM,Jul-22,2022,76.4,78.5,71.3,4,86.0,6,Outstanding,Not Placed,0
+SPJ20241081,Student_25_Jan-24,student25@jan-24.spjain.edu,MGB,Jan-24,2024,92.6,85.5,94.6,2,90.0,3,Outstanding,Placed,2
+SPJ20224829,Student_26_Jul-23,student26@jul-23.spjain.edu,GMBA,Jul-23,2022,78.6,75.9,91.6,5,92.9,4,Needs Handholding,Placed,2
+SPJ20245681,Student_27_Jan-23,student27@jan-23.spjain.edu,GMBA,Jan-23,2024,88.1,71.3,86.7,0,87.1,3,Average,Placed,2
+SPJ20225856,Student_28_Jul-22,student28@jul-22.spjain.edu,GMBA,Jul-22,2022,87.9,81.3,76.4,1,90.1,8,Needs Handholding,Not Placed,0
+SPJ20247293,Student_29_Jul-24,student29@jul-24.spjain.edu,GMBA,Jul-24,2024,89.0,88.7,86.9,0,92.8,5,Good,Not Placed,0
+SPJ20224030,Student_30_Jan-24,student30@jan-24.spjain.edu,GMBA,Jan-24,2022,73.7,84.1,77.4,2,86.4,4,Good,Placed,1
+SPJ20222928,Student_31_Jan-23,student31@jan-23.spjain.edu,GCGM,Jan-23,2022,89.4,80.7,84.1,1,87.4,3,Needs Handholding,Placed,2
+SPJ20226927,Student_32_Jul-23,student32@jul-23.spjain.edu,MGB,Jul-23,2022,86.0,74.3,75.4,5,79.6,7,Good,Not Placed,0
+SPJ20248113,Student_33_Jul-22,student33@jul-22.spjain.edu,GMBA,Jul-22,2024,73.5,92.4,88.9,0,92.9,6,Outstanding,Placed,6
+SPJ20247198,Student_34_Jan-22,student34@jan-22.spjain.edu,MGB,Jan-22,2024,90.1,89.6,80.2,1,83.7,5,Outstanding,Not Placed,0
+SPJ20246518,Student_35_Jul-23,student35@jul-23.spjain.edu,MGB,Jul-23,2024,71.8,90.7,70.4,3,77.0,8,Good,Placed,6
+SPJ20228838,Student_36_Jan-23,student36@jan-23.spjain.edu,GCGM,Jan-23,2022,89.4,80.0,73.7,2,92.0,5,Outstanding,Placed,2
+SPJ20222330,Student_37_Jan-22,student37@jan-22.spjain.edu,GCGM,Jan-22,2022,86.7,82.8,85.0,0,95.0,3,Needs Handholding,Placed,1
+SPJ20242198,Student_38_Jul-22,student38@jul-22.spjain.edu,GMBA,Jul-22,2024,78.4,94.2,91.4,0,82.5,3,Average,Placed,2
+SPJ20227035,Student_39_Jan-23,student39@jan-23.spjain.edu,GMBA,Jan-23,2022,81.3,89.3,91.6,1,92.4,6,Needs Handholding,Placed,1
+SPJ20237606,Student_40_Jul-24,student40@jul-24.spjain.edu,GCGM,Jul-24,2023,76.8,92.4,81.0,2,82.8,3,Needs Handholding,Placed,3
+SPJ20222094,Student_41_Jul-24,student41@jul-24.spjain.edu,MGB,Jul-24,2022,84.9,78.6,83.9,1,89.5,6,Needs Handholding,Placed,2
+SPJ20236863,Student_42_Jan-22,student42@jan-22.spjain.edu,MGB,Jan-22,2023,93.4,86.9,76.6,0,79.1,4,Outstanding,Placed,3
+SPJ20223676,Student_43_Jul-22,student43@jul-22.spjain.edu,GMBA,Jul-22,2022,78.6,94.0,72.7,0,84.3,4,Good,Placed,1
+SPJ20222986,Student_44_Jul-23,student44@jul-23.spjain.edu,GCGM,Jul-23,2022,75.5,80.5,90.6,1,84.4,7,Average,Not Placed,0
+SPJ20237481,Student_45_Jul-22,student45@jul-22.spjain.edu,GCGM,Jul-22,2023,71.9,86.7,77.4,0,89.5,4,Average,Placed,2
+SPJ20228707,Student_46_Jan-24,student46@jan-24.spjain.edu,MGB,Jan-24,2022,94.3,72.4,76.9,0,84.0,8,Average,Placed,7
+SPJ20222511,Student_47_Jan-22,student47@jan-22.spjain.edu,GMBA,Jan-22,2022,92.6,88.5,82.5,1,93.3,3,Outstanding,Placed,3
+SPJ20248175,Student_48_Jan-24,student48@jan-24.spjain.edu,MGB,Jan-24,2024,90.7,72.6,74.8,3,78.4,7,Average,Not Placed,0
+SPJ20224750,Student_49_Jul-23,student49@jul-23.spjain.edu,GCGM,Jul-23,2022,91.9,83.5,91.9,1,85.9,5,Needs Handholding,Placed,3
+SPJ20242000,Student_50_Jul-23,student50@jul-23.spjain.edu,GMBA,Jul-23,2024,70.6,89.6,84.7,3,88.6,3,Needs Handholding,Not Placed,0
+SPJ20223800,Student_51_Jul-23,student51@jul-23.spjain.edu,MGB,Jul-23,2022,92.5,83.0,90.2,1,90.3,6,Good,Placed,6
+SPJ20247634,Student_52_Jul-22,student52@jul-22.spjain.edu,GCGM,Jul-22,2024,78.7,86.8,72.2,2,75.3,5,Needs Handholding,Placed,3
+SPJ20249753,Student_53_Jul-22,student53@jul-22.spjain.edu,GMBA,Jul-22,2024,71.8,86.3,93.4,0,81.5,6,Needs Handholding,Placed,5
+SPJ20221555,Student_54_Jan-23,student54@jan-23.spjain.edu,GMBA,Jan-23,2022,80.7,85.2,77.2,0,94.1,4,Outstanding,Not Placed,0
+SPJ20246533,Student_55_Jul-24,student55@jul-24.spjain.edu,GMBA,Jul-24,2024,75.7,91.0,80.8,5,88.8,7,Average,Placed,3
+SPJ20248231,Student_56_Jan-24,student56@jan-24.spjain.edu,GMBA,Jan-24,2024,83.8,71.7,72.1,3,87.5,7,Needs Handholding,Placed,6
+SPJ20225503,Student_57_Jan-23,student57@jan-23.spjain.edu,GCGM,Jan-23,2022,75.9,83.6,81.2,1,85.8,8,Good,Placed,8
+SPJ20249287,Student_58_Jan-22,student58@jan-22.spjain.edu,MGB,Jan-22,2024,71.6,85.7,94.3,4,85.6,6,Good,Not Placed,0
+SPJ20224051,Student_59_Jul-24,student59@jul-24.spjain.edu,MGB,Jul-24,2022,90.9,73.2,82.9,1,94.9,3,Average,Placed,2
+SPJ20221627,Student_60_Jul-24,student60@jul-24.spjain.edu,GMBA,Jul-24,2022,79.2,87.4,92.1,3,82.6,7,Average,Not Placed,0
+SPJ20227456,Student_61_Jul-24,student61@jul-24.spjain.edu,GCGM,Jul-24,2022,74.2,92.5,74.4,2,80.4,4,Needs Handholding,Not Placed,0
+SPJ20234640,Student_62_Jul-22,student62@jul-22.spjain.edu,GCGM,Jul-22,2023,90.7,85.3,74.6,2,94.0,8,Average,Not Placed,0
+SPJ20247374,Student_63_Jan-24,student63@jan-24.spjain.edu,GCGM,Jan-24,2024,93.4,78.5,74.1,1,78.7,5,Needs Handholding,Placed,3
+SPJ20229265,Student_64_Jan-24,student64@jan-24.spjain.edu,GCGM,Jan-24,2022,80.1,84.7,91.7,1,85.6,8,Average,Placed,4
+SPJ20246250,Student_65_Jan-24,student65@jan-24.spjain.edu,GCGM,Jan-24,2024,79.8,79.1,93.8,4,80.3,6,Average,Placed,5
+SPJ20238933,Student_66_Jul-24,student66@jul-24.spjain.edu,MGB,Jul-24,2023,90.6,75.6,74.9,0,92.6,7,Outstanding,Placed,4
+SPJ20226039,Student_67_Jan-22,student67@jan-22.spjain.edu,GCGM,Jan-22,2022,83.0,87.6,84.5,0,76.7,5,Good,Not Placed,0
+SPJ20238796,Student_68_Jan-23,student68@jan-23.spjain.edu,GCGM,Jan-23,2023,81.3,78.2,78.2,0,89.6,5,Good,Not Placed,0
+SPJ20222427,Student_69_Jan-24,student69@jan-24.spjain.edu,GMBA,Jan-24,2022,76.0,80.7,91.3,0,94.2,5,Good,Placed,3
+SPJ20221110,Student_70_Jan-23,student70@jan-23.spjain.edu,GCGM,Jan-23,2022,81.4,85.4,93.7,1,86.2,7,Good,Not Placed,0
+SPJ20227817,Student_71_Jan-23,student71@jan-23.spjain.edu,MGB,Jan-23,2022,75.9,82.9,83.9,3,78.3,4,Average,Not Placed,0
+SPJ20246535,Student_72_Jan-23,student72@jan-23.spjain.edu,GCGM,Jan-23,2024,82.7,89.8,81.2,2,81.0,4,Good,Not Placed,0
+SPJ20243111,Student_73_Jan-23,student73@jan-23.spjain.edu,GMBA,Jan-23,2024,92.3,77.0,85.8,3,94.3,5,Average,Placed,5
+SPJ20226027,Student_74_Jan-24,student74@jan-24.spjain.edu,MGB,Jan-24,2022,94.2,90.3,80.7,0,77.7,3,Outstanding,Placed,1
+SPJ20222134,Student_75_Jul-24,student75@jul-24.spjain.edu,MGB,Jul-24,2022,84.7,92.0,71.8,0,87.9,3,Average,Not Placed,0
+SPJ20235968,Student_76_Jan-22,student76@jan-22.spjain.edu,GCGM,Jan-22,2023,78.5,70.8,75.1,4,89.8,8,Outstanding,Not Placed,0
+SPJ20248356,Student_77_Jan-24,student77@jan-24.spjain.edu,MGB,Jan-24,2024,85.4,79.6,85.5,1,85.0,8,Good,Not Placed,0
+SPJ20245717,Student_78_Jul-23,student78@jul-23.spjain.edu,GMBA,Jul-23,2024,93.7,86.1,73.7,0,82.3,7,Good,Not Placed,0
+SPJ20243346,Student_79_Jan-22,student79@jan-22.spjain.edu,GCGM,Jan-22,2024,75.5,90.3,87.7,0,78.8,3,Good,Placed,3
+SPJ20243623,Student_80_Jan-22,student80@jan-22.spjain.edu,GMBA,Jan-22,2024,77.6,72.3,79.4,0,85.4,6,Average,Not Placed,0
+SPJ20246735,Student_81_Jul-24,student81@jul-24.spjain.edu,GCGM,Jul-24,2024,81.6,70.6,74.1,3,85.4,3,Needs Handholding,Placed,1
+SPJ20233333,Student_82_Jul-23,student82@jul-23.spjain.edu,MGB,Jul-23,2023,76.5,94.3,84.1,3,77.7,4,Outstanding,Not Placed,0
+SPJ20243976,Student_83_Jan-22,student83@jan-22.spjain.edu,GMBA,Jan-22,2024,90.4,91.4,88.5,4,79.8,3,Needs Handholding,Placed,3
+SPJ20226338,Student_84_Jul-23,student84@jul-23.spjain.edu,GMBA,Jul-23,2022,86.1,74.4,81.4,0,83.9,8,Good,Placed,1
+SPJ20222234,Student_85_Jul-22,student85@jul-22.spjain.edu,GCGM,Jul-22,2022,84.4,84.2,85.4,1,94.1,8,Needs Handholding,Not Placed,0
+SPJ20226047,Student_86_Jan-23,student86@jan-23.spjain.edu,GMBA,Jan-23,2022,83.8,73.6,92.4,2,89.0,4,Good,Not Placed,0
+SPJ20226449,Student_87_Jul-23,student87@jul-23.spjain.edu,MGB,Jul-23,2022,82.2,86.1,88.4,1,78.2,6,Average,Placed,1
+SPJ20243856,Student_88_Jan-23,student88@jan-23.spjain.edu,MGB,Jan-23,2024,90.3,89.4,85.3,0,92.9,7,Needs Handholding,Placed,2
+SPJ20226355,Student_89_Jan-22,student89@jan-22.spjain.edu,MGB,Jan-22,2022,71.4,76.2,92.5,4,93.2,8,Outstanding,Placed,8
+SPJ20244087,Student_90_Jan-24,student90@jan-24.spjain.edu,GCGM,Jan-24,2024,93.6,83.0,73.3,0,77.7,5,Needs Handholding,Placed,5
+SPJ20224450,Student_91_Jan-22,student91@jan-22.spjain.edu,GCGM,Jan-22,2022,76.6,83.9,85.2,4,85.1,7,Needs Handholding,Not Placed,0
+SPJ20241284,Student_92_Jul-24,student92@jul-24.spjain.edu,GMBA,Jul-24,2024,87.6,79.3,82.9,0,87.7,6,Outstanding,Placed,2
+SPJ20222533,Student_93_Jan-23,student93@jan-23.spjain.edu,MGB,Jan-23,2022,93.1,86.1,90.4,2,77.2,3,Average,Placed,1
+SPJ20244257,Student_94_Jul-22,student94@jul-22.spjain.edu,GCGM,Jul-22,2024,84.4,89.5,88.2,5,82.0,3,Outstanding,Not Placed,0
+SPJ20249189,Student_95_Jan-23,student95@jan-23.spjain.edu,MGB,Jan-23,2024,91.7,82.8,71.4,0,86.5,6,Outstanding,Placed,6
+SPJ20228644,Student_96_Jan-24,student96@jan-24.spjain.edu,GCGM,Jan-24,2022,73.6,71.2,73.8,0,79.1,3,Needs Handholding,Not Placed,0
+SPJ20222981,Student_97_Jul-22,student97@jul-22.spjain.edu,GMBA,Jul-22,2022,72.9,89.3,86.8,0,82.7,3,Good,Placed,1
+SPJ20224153,Student_98_Jul-24,student98@jul-24.spjain.edu,GMBA,Jul-24,2022,81.2,88.1,86.5,3,93.6,4,Good,Placed,3
+SPJ20235660,Student_99_Jul-23,student99@jul-23.spjain.edu,MGB,Jul-23,2023,75.2,70.3,74.5,0,78.0,5,Good,Placed,1
+SPJ20243110,Student_100_Jan-24,student100@jan-24.spjain.edu,GCGM,Jan-24,2024,79.9,83.1,93.0,1,94.6,4,Average,Not Placed,0
+SPJ20223100,Student_101_Jan-24,student101@jan-24.spjain.edu,GCGM,Jan-24,2022,87.5,79.2,94.2,0,91.2,8,Outstanding,Placed,6
+SPJ20236351,Student_102_Jan-24,student102@jan-24.spjain.edu,GMBA,Jan-24,2023,90.6,89.4,75.7,0,77.8,4,Needs Handholding,Not Placed,0
+SPJ20238894,Student_103_Jan-23,student103@jan-23.spjain.edu,GMBA,Jan-23,2023,77.7,93.1,75.3,1,93.8,8,Good,Placed,3
+SPJ20222398,Student_104_Jul-23,student104@jul-23.spjain.edu,GCGM,Jul-23,2022,79.0,74.0,75.8,2,76.2,7,Outstanding,Not Placed,0
+SPJ20245676,Student_105_Jul-23,student105@jul-23.spjain.edu,MGB,Jul-23,2024,70.6,75.7,73.2,0,81.8,5,Good,Placed,2
+SPJ20227933,Student_106_Jul-22,student106@jul-22.spjain.edu,GCGM,Jul-22,2022,73.1,85.4,92.7,3,86.3,8,Needs Handholding,Not Placed,0
+SPJ20228857,Student_107_Jan-24,student107@jan-24.spjain.edu,MGB,Jan-24,2022,79.3,84.8,89.5,2,80.7,4,Good,Not Placed,0
+SPJ20231436,Student_108_Jul-22,student108@jul-22.spjain.edu,GCGM,Jul-22,2023,81.5,70.1,71.1,0,90.9,7,Outstanding,Placed,2
+SPJ20242596,Student_109_Jul-23,student109@jul-23.spjain.edu,GMBA,Jul-23,2024,75.7,81.2,76.9,1,78.2,7,Outstanding,Placed,5
+SPJ20231695,Student_110_Jul-24,student110@jul-24.spjain.edu,GMBA,Jul-24,2023,81.2,73.7,70.8,1,89.1,6,Outstanding,Placed,5
+SPJ20229061,Student_111_Jul-23,student111@jul-23.spjain.edu,MGB,Jul-23,2022,76.2,81.5,75.7,0,91.3,5,Average,Not Placed,0
+SPJ20237978,Student_112_Jul-22,student112@jul-22.spjain.edu,MGB,Jul-22,2023,74.4,87.6,70.6,3,78.6,7,Average,Not Placed,0
+SPJ20243565,Student_113_Jul-23,student113@jul-23.spjain.edu,GMBA,Jul-23,2024,76.3,70.7,73.0,1,79.0,8,Good,Not Placed,0
+SPJ20231943,Student_114_Jan-23,student114@jan-23.spjain.edu,MGB,Jan-23,2023,92.2,80.9,73.7,0,85.5,4,Needs Handholding,Placed,1
+SPJ20238956,Student_115_Jul-23,student115@jul-23.spjain.edu,MGB,Jul-23,2023,80.6,77.8,78.3,0,90.1,3,Outstanding,Not Placed,0
+SPJ20221049,Student_116_Jul-23,student116@jul-23.spjain.edu,GMBA,Jul-23,2022,92.8,70.9,88.7,1,85.9,7,Outstanding,Not Placed,0
+SPJ20249141,Student_117_Jul-22,student117@jul-22.spjain.edu,MGB,Jul-22,2024,94.9,71.6,89.6,1,87.2,7,Outstanding,Not Placed,0
+SPJ20247262,Student_118_Jan-24,student118@jan-24.spjain.edu,MGB,Jan-24,2024,94.7,86.0,86.2,1,86.8,8,Outstanding,Not Placed,0
+SPJ20248862,Student_119_Jan-24,student119@jan-24.spjain.edu,GMBA,Jan-24,2024,77.3,80.3,79.6,0,79.3,5,Outstanding,Not Placed,0
+SPJ20228308,Student_120_Jan-23,student120@jan-23.spjain.edu,GMBA,Jan-23,2022,75.8,74.4,78.1,0,89.7,7,Average,Placed,5
+SPJ20242458,Student_121_Jan-22,student121@jan-22.spjain.edu,GCGM,Jan-22,2024,90.6,76.6,92.1,0,79.3,3,Needs Handholding,Placed,1
+SPJ20229404,Student_122_Jan-22,student122@jan-22.spjain.edu,MGB,Jan-22,2022,86.5,86.5,85.8,0,92.0,7,Outstanding,Placed,3
+SPJ20242156,Student_123_Jan-24,student123@jan-24.spjain.edu,GMBA,Jan-24,2024,81.2,73.7,72.8,0,89.6,7,Average,Placed,7
+SPJ20239304,Student_124_Jul-23,student124@jul-23.spjain.edu,GMBA,Jul-23,2023,77.6,73.5,88.9,2,85.4,8,Good,Not Placed,0
+SPJ20224095,Student_125_Jul-23,student125@jul-23.spjain.edu,MGB,Jul-23,2022,83.5,71.5,70.6,0,83.4,5,Needs Handholding,Placed,2
+SPJ20227938,Student_126_Jan-24,student126@jan-24.spjain.edu,MGB,Jan-24,2022,77.5,80.1,89.1,0,85.2,6,Average,Placed,5
+SPJ20222931,Student_127_Jan-24,student127@jan-24.spjain.edu,GMBA,Jan-24,2022,81.6,88.8,84.5,0,80.3,7,Average,Placed,6
+SPJ20247183,Student_128_Jan-22,student128@jan-22.spjain.edu,MGB,Jan-22,2024,80.6,78.9,71.1,5,80.0,6,Average,Placed,3
+SPJ20237165,Student_129_Jan-22,student129@jan-22.spjain.edu,MGB,Jan-22,2023,84.5,91.5,86.5,1,80.9,3,Needs Handholding,Not Placed,0
+SPJ20221190,Student_130_Jan-24,student130@jan-24.spjain.edu,MGB,Jan-24,2022,88.0,93.4,80.7,3,85.2,4,Outstanding,Not Placed,0
+SPJ20239233,Student_131_Jan-24,student131@jan-24.spjain.edu,GCGM,Jan-24,2023,72.6,73.6,94.5,1,91.5,6,Average,Placed,1
+SPJ20238856,Student_132_Jul-22,student132@jul-22.spjain.edu,GMBA,Jul-22,2023,83.4,83.3,82.5,0,92.6,4,Average,Not Placed,0
+SPJ20233674,Student_133_Jan-24,student133@jan-24.spjain.edu,GCGM,Jan-24,2023,85.0,71.7,70.6,0,81.0,4,Outstanding,Placed,3
+SPJ20236262,Student_134_Jul-24,student134@jul-24.spjain.edu,GCGM,Jul-24,2023,72.7,75.3,88.0,1,78.7,4,Outstanding,Not Placed,0
+SPJ20223369,Student_135_Jan-24,student135@jan-24.spjain.edu,GMBA,Jan-24,2022,80.0,89.5,87.5,1,93.1,5,Average,Not Placed,0
+SPJ20242035,Student_136_Jan-22,student136@jan-22.spjain.edu,MGB,Jan-22,2024,72.4,77.9,70.8,2,80.8,3,Needs Handholding,Not Placed,0
+SPJ20237565,Student_137_Jul-24,student137@jul-24.spjain.edu,MGB,Jul-24,2023,92.4,93.3,71.6,1,89.0,7,Outstanding,Placed,7
+SPJ20227169,Student_138_Jan-24,student138@jan-24.spjain.edu,MGB,Jan-24,2022,72.4,72.0,76.8,0,90.7,5,Good,Not Placed,0
+SPJ20239302,Student_139_Jan-24,student139@jan-24.spjain.edu,MGB,Jan-24,2023,85.4,83.5,90.1,2,94.5,6,Needs Handholding,Not Placed,0
+SPJ20233208,Student_140_Jan-24,student140@jan-24.spjain.edu,MGB,Jan-24,2023,87.2,91.7,78.2,2,94.6,8,Outstanding,Placed,2
+SPJ20242857,Student_141_Jan-24,student141@jan-24.spjain.edu,GMBA,Jan-24,2024,74.5,91.1,89.5,1,88.9,6,Outstanding,Not Placed,0
+SPJ20226150,Student_142_Jul-23,student142@jul-23.spjain.edu,GCGM,Jul-23,2022,80.6,88.2,75.7,4,90.1,7,Needs Handholding,Placed,4
+SPJ20241405,Student_143_Jul-23,student143@jul-23.spjain.edu,GCGM,Jul-23,2024,86.2,72.5,84.5,2,87.0,6,Needs Handholding,Placed,1
+SPJ20245488,Student_144_Jul-24,student144@jul-24.spjain.edu,GMBA,Jul-24,2024,84.3,90.2,77.5,2,78.6,5,Needs Handholding,Not Placed,0
+SPJ20246966,Student_145_Jan-24,student145@jan-24.spjain.edu,GMBA,Jan-24,2024,80.9,82.4,71.3,2,78.2,5,Average,Not Placed,0
+SPJ20233143,Student_146_Jul-23,student146@jul-23.spjain.edu,MGB,Jul-23,2023,83.4,70.7,81.3,2,94.3,4,Outstanding,Not Placed,0
+SPJ20236472,Student_147_Jan-23,student147@jan-23.spjain.edu,GCGM,Jan-23,2023,90.0,91.9,89.6,1,81.7,5,Outstanding,Placed,4
+SPJ20233966,Student_148_Jan-24,student148@jan-24.spjain.edu,GMBA,Jan-24,2023,75.7,71.3,87.4,1,92.1,3,Good,Placed,2
+SPJ20232637,Student_149_Jul-23,student149@jul-23.spjain.edu,MGB,Jul-23,2023,87.3,81.8,80.0,0,82.8,3,Outstanding,Placed,2
+SPJ20249458,Student_150_Jan-23,student150@jan-23.spjain.edu,GCGM,Jan-23,2024,90.4,76.3,89.9,0,75.1,7,Outstanding,Placed,4
+SPJ20248309,Student_151_Jul-23,student151@jul-23.spjain.edu,MGB,Jul-23,2024,82.4,84.0,74.9,0,86.6,5,Needs Handholding,Placed,3
+SPJ20239663,Student_152_Jul-24,student152@jul-24.spjain.edu,GCGM,Jul-24,2023,89.8,91.3,86.0,0,77.9,3,Good,Placed,1
+SPJ20246740,Student_153_Jul-22,student153@jul-22.spjain.edu,MGB,Jul-22,2024,89.0,82.0,75.7,3,92.3,7,Outstanding,Not Placed,0
+SPJ20235148,Student_154_Jul-22,student154@jul-22.spjain.edu,GMBA,Jul-22,2023,94.6,93.7,74.4,0,88.4,8,Good,Not Placed,0
+SPJ20222825,Student_155_Jan-23,student155@jan-23.spjain.edu,MGB,Jan-23,2022,70.8,93.6,76.4,2,88.0,5,Good,Placed,1
+SPJ20228182,Student_156_Jul-22,student156@jul-22.spjain.edu,GCGM,Jul-22,2022,93.4,94.6,77.1,4,90.3,8,Needs Handholding,Placed,8
+SPJ20228778,Student_157_Jul-22,student157@jul-22.spjain.edu,MGB,Jul-22,2022,86.6,86.1,87.0,1,78.4,4,Needs Handholding,Placed,1
+SPJ20224184,Student_158_Jul-24,student158@jul-24.spjain.edu,MGB,Jul-24,2022,86.4,71.5,91.2,3,94.2,3,Average,Not Placed,0
+SPJ20244760,Student_159_Jul-23,student159@jul-23.spjain.edu,GCGM,Jul-23,2024,94.9,94.5,78.1,4,91.6,5,Good,Not Placed,0
+SPJ20229276,Student_160_Jan-22,student160@jan-22.spjain.edu,MGB,Jan-22,2022,91.4,91.6,89.7,0,89.3,6,Needs Handholding,Not Placed,0
+SPJ20228004,Student_161_Jan-24,student161@jan-24.spjain.edu,MGB,Jan-24,2022,91.1,78.6,74.3,2,93.3,5,Average,Not Placed,0
+SPJ20226251,Student_162_Jan-24,student162@jan-24.spjain.edu,GCGM,Jan-24,2022,90.5,92.0,87.2,4,87.4,6,Outstanding,Placed,6
+SPJ20249645,Student_163_Jul-24,student163@jul-24.spjain.edu,GCGM,Jul-24,2024,73.1,83.4,94.0,5,80.1,7,Needs Handholding,Not Placed,0
+SPJ20248363,Student_164_Jul-22,student164@jul-22.spjain.edu,GMBA,Jul-22,2024,85.0,77.7,94.6,4,89.1,6,Outstanding,Not Placed,0
+SPJ20233165,Student_165_Jul-22,student165@jul-22.spjain.edu,GMBA,Jul-22,2023,79.4,70.9,72.2,4,90.0,6,Average,Placed,3
+SPJ20241492,Student_166_Jan-24,student166@jan-24.spjain.edu,GCGM,Jan-24,2024,75.7,81.2,83.0,2,90.8,4,Outstanding,Not Placed,0
+SPJ20244032,Student_167_Jul-22,student167@jul-22.spjain.edu,MGB,Jul-22,2024,75.3,74.3,91.7,0,78.4,3,Outstanding,Placed,1
+SPJ20222993,Student_168_Jul-22,student168@jul-22.spjain.edu,GCGM,Jul-22,2022,70.4,87.3,79.6,3,77.3,3,Needs Handholding,Not Placed,0
+SPJ20226231,Student_169_Jan-24,student169@jan-24.spjain.edu,GCGM,Jan-24,2022,90.4,74.7,79.6,1,76.2,8,Good,Not Placed,0
+SPJ20246068,Student_170_Jul-22,student170@jul-22.spjain.edu,GMBA,Jul-22,2024,93.6,84.7,88.9,2,83.4,7,Good,Placed,3
+SPJ20233988,Student_171_Jan-24,student171@jan-24.spjain.edu,MGB,Jan-24,2023,90.8,89.8,70.9,2,90.5,3,Needs Handholding,Not Placed,0
+SPJ20238091,Student_172_Jan-23,student172@jan-23.spjain.edu,GCGM,Jan-23,2023,93.6,93.8,84.7,0,81.6,8,Outstanding,Not Placed,0
+SPJ20231025,Student_173_Jul-23,student173@jul-23.spjain.edu,GMBA,Jul-23,2023,76.7,71.8,92.6,2,81.0,3,Outstanding,Placed,2
+SPJ20234189,Student_174_Jan-24,student174@jan-24.spjain.edu,MGB,Jan-24,2023,72.5,85.4,93.1,2,90.4,6,Outstanding,Placed,3
+SPJ20241252,Student_175_Jul-23,student175@jul-23.spjain.edu,MGB,Jul-23,2024,75.1,83.8,79.4,4,87.4,4,Needs Handholding,Not Placed,0
+SPJ20241501,Student_176_Jul-22,student176@jul-22.spjain.edu,GMBA,Jul-22,2024,80.8,83.9,92.4,0,84.4,8,Needs Handholding,Placed,6
+SPJ20232425,Student_177_Jan-24,student177@jan-24.spjain.edu,MGB,Jan-24,2023,74.5,81.3,71.9,3,75.5,7,Good,Placed,1
+SPJ20242288,Student_178_Jul-23,student178@jul-23.spjain.edu,GCGM,Jul-23,2024,89.1,79.0,91.2,4,86.2,4,Needs Handholding,Placed,3
+SPJ20248973,Student_179_Jan-22,student179@jan-22.spjain.edu,GMBA,Jan-22,2024,79.2,73.5,71.8,2,81.7,5,Outstanding,Not Placed,0
+SPJ20242505,Student_180_Jan-23,student180@jan-23.spjain.edu,MGB,Jan-23,2024,72.3,88.7,82.2,4,78.7,3,Outstanding,Placed,2
+SPJ20241874,Student_181_Jul-24,student181@jul-24.spjain.edu,GMBA,Jul-24,2024,80.1,73.4,76.7,0,87.1,6,Average,Placed,4
+SPJ20248128,Student_182_Jan-23,student182@jan-23.spjain.edu,GMBA,Jan-23,2024,88.3,76.7,73.3,2,88.6,5,Needs Handholding,Placed,3
+SPJ20227542,Student_183_Jul-22,student183@jul-22.spjain.edu,GMBA,Jul-22,2022,91.1,73.5,91.1,3,91.6,8,Outstanding,Placed,2
+SPJ20236375,Student_184_Jul-24,student184@jul-24.spjain.edu,GCGM,Jul-24,2023,80.3,93.8,81.5,0,80.6,6,Good,Placed,5
+SPJ20223232,Student_185_Jan-23,student185@jan-23.spjain.edu,GMBA,Jan-23,2022,71.5,82.1,86.3,1,78.2,5,Needs Handholding,Placed,1
+SPJ20232903,Student_186_Jan-22,student186@jan-22.spjain.edu,MGB,Jan-22,2023,93.5,83.6,93.3,0,84.6,3,Average,Placed,1
+SPJ20226942,Student_187_Jan-23,student187@jan-23.spjain.edu,GMBA,Jan-23,2022,85.3,91.1,92.1,0,81.3,6,Outstanding,Placed,6
+SPJ20228927,Student_188_Jul-23,student188@jul-23.spjain.edu,GCGM,Jul-23,2022,90.5,73.4,71.1,0,91.2,7,Average,Placed,1
+SPJ20249550,Student_189_Jul-24,student189@jul-24.spjain.edu,MGB,Jul-24,2024,72.2,82.6,89.6,5,81.5,5,Good,Placed,5
+SPJ20242443,Student_190_Jul-23,student190@jul-23.spjain.edu,MGB,Jul-23,2024,83.9,75.3,91.4,1,86.9,5,Needs Handholding,Placed,4
+SPJ20246444,Student_191_Jul-24,student191@jul-24.spjain.edu,GMBA,Jul-24,2024,93.1,94.4,75.1,0,79.3,8,Outstanding,Placed,5
+SPJ20238173,Student_192_Jul-22,student192@jul-22.spjain.edu,GCGM,Jul-22,2023,89.4,86.6,80.1,0,84.4,5,Good,Not Placed,0
+SPJ20228033,Student_193_Jan-24,student193@jan-24.spjain.edu,MGB,Jan-24,2022,78.4,93.0,80.5,1,92.2,7,Needs Handholding,Placed,6
+SPJ20245881,Student_194_Jul-22,student194@jul-22.spjain.edu,MGB,Jul-22,2024,83.7,94.7,94.9,1,85.9,4,Average,Placed,4
+SPJ20246497,Student_195_Jul-22,student195@jul-22.spjain.edu,MGB,Jul-22,2024,71.2,78.3,81.1,2,89.1,6,Average,Not Placed,0
+SPJ20239083,Student_196_Jan-22,student196@jan-22.spjain.edu,MGB,Jan-22,2023,94.0,74.0,84.1,0,85.8,5,Average,Placed,1
+SPJ20232552,Student_197_Jul-24,student197@jul-24.spjain.edu,GMBA,Jul-24,2023,88.3,86.7,85.0,0,94.0,3,Needs Handholding,Not Placed,0
+SPJ20227653,Student_198_Jul-24,student198@jul-24.spjain.edu,GMBA,Jul-24,2022,73.6,90.1,87.6,3,76.1,8,Good,Placed,1
+SPJ20238171,Student_199_Jan-24,student199@jan-24.spjain.edu,GMBA,Jan-24,2023,93.0,77.9,93.0,0,88.7,3,Outstanding,Placed,1
+SPJ20233999,Student_200_Jan-24,student200@jan-24.spjain.edu,MGB,Jan-24,2023,91.8,71.5,73.9,0,76.6,3,Average,Placed,3
+SPJ20242636,Student_201_Jul-24,student201@jul-24.spjain.edu,MGB,Jul-24,2024,87.2,76.5,85.8,2,75.6,5,Outstanding,Not Placed,0
+SPJ20227433,Student_202_Jul-24,student202@jul-24.spjain.edu,MGB,Jul-24,2022,91.1,81.6,83.8,2,87.9,4,Outstanding,Placed,1
+SPJ20246705,Student_203_Jul-24,student203@jul-24.spjain.edu,MGB,Jul-24,2024,75.4,77.6,88.0,2,92.9,3,Outstanding,Not Placed,0
+SPJ20223855,Student_204_Jan-22,student204@jan-22.spjain.edu,GCGM,Jan-22,2022,80.7,82.7,87.5,0,76.4,5,Outstanding,Placed,3
+SPJ20231971,Student_205_Jan-23,student205@jan-23.spjain.edu,GMBA,Jan-23,2023,89.0,76.1,79.3,2,77.9,5,Needs Handholding,Placed,1
+SPJ20247338,Student_206_Jul-23,student206@jul-23.spjain.edu,MGB,Jul-23,2024,93.5,70.3,70.5,3,93.9,7,Outstanding,Placed,5
+SPJ20235734,Student_207_Jul-23,student207@jul-23.spjain.edu,GMBA,Jul-23,2023,76.6,89.5,92.4,4,80.3,8,Good,Placed,4
+SPJ20246375,Student_208_Jan-24,student208@jan-24.spjain.edu,MGB,Jan-24,2024,94.1,79.4,75.6,1,84.8,6,Good,Not Placed,0
+SPJ20222732,Student_209_Jul-22,student209@jul-22.spjain.edu,GCGM,Jul-22,2022,85.8,90.7,71.8,1,81.3,4,Needs Handholding,Placed,3
+SPJ20236423,Student_210_Jan-24,student210@jan-24.spjain.edu,MGB,Jan-24,2023,74.6,71.5,74.7,5,90.6,4,Good,Not Placed,0
+SPJ20224980,Student_211_Jan-22,student211@jan-22.spjain.edu,GCGM,Jan-22,2022,88.4,70.8,71.0,0,82.1,3,Needs Handholding,Not Placed,0
+SPJ20226473,Student_212_Jul-22,student212@jul-22.spjain.edu,GCGM,Jul-22,2022,72.2,79.8,75.5,2,93.6,5,Average,Not Placed,0
+SPJ20243744,Student_213_Jan-24,student213@jan-24.spjain.edu,GMBA,Jan-24,2024,81.3,91.4,91.5,0,86.9,7,Needs Handholding,Not Placed,0
+SPJ20226795,Student_214_Jan-22,student214@jan-22.spjain.edu,MGB,Jan-22,2022,93.8,76.0,86.8,0,92.7,4,Needs Handholding,Not Placed,0
+SPJ20223655,Student_215_Jul-22,student215@jul-22.spjain.edu,GMBA,Jul-22,2022,76.4,94.6,92.2,1,75.0,6,Outstanding,Placed,3
+SPJ20249592,Student_216_Jul-24,student216@jul-24.spjain.edu,GCGM,Jul-24,2024,70.2,74.7,87.5,0,87.9,7,Good,Placed,3
+SPJ20247085,Student_217_Jan-24,student217@jan-24.spjain.edu,GCGM,Jan-24,2024,92.7,88.1,87.2,0,83.7,3,Needs Handholding,Placed,3
+SPJ20249466,Student_218_Jan-24,student218@jan-24.spjain.edu,MGB,Jan-24,2024,72.0,84.7,77.8,3,78.3,8,Outstanding,Not Placed,0
+SPJ20223532,Student_219_Jul-24,student219@jul-24.spjain.edu,GCGM,Jul-24,2022,88.8,89.3,92.9,4,90.3,8,Good,Placed,7
+SPJ20238811,Student_220_Jan-24,student220@jan-24.spjain.edu,GMBA,Jan-24,2023,92.5,90.1,76.9,0,88.1,7,Good,Placed,6
+SPJ20225128,Student_221_Jan-22,student221@jan-22.spjain.edu,GCGM,Jan-22,2022,74.4,75.3,77.4,2,93.5,4,Good,Placed,1
+SPJ20236896,Student_222_Jan-23,student222@jan-23.spjain.edu,GCGM,Jan-23,2023,82.2,77.0,75.3,2,92.2,8,Outstanding,Placed,7
+SPJ20243445,Student_223_Jan-24,student223@jan-24.spjain.edu,GMBA,Jan-24,2024,74.9,70.3,73.2,0,75.7,4,Outstanding,Not Placed,0
+SPJ20223140,Student_224_Jul-22,student224@jul-22.spjain.edu,GCGM,Jul-22,2022,87.9,82.5,91.3,2,92.5,4,Average,Placed,1
+SPJ20238486,Student_225_Jan-22,student225@jan-22.spjain.edu,GMBA,Jan-22,2023,78.4,71.2,76.3,0,88.6,3,Average,Placed,2
+SPJ20232212,Student_226_Jan-23,student226@jan-23.spjain.edu,MGB,Jan-23,2023,92.6,72.4,83.4,0,88.7,8,Good,Placed,7
+SPJ20235062,Student_227_Jan-23,student227@jan-23.spjain.edu,MGB,Jan-23,2023,91.6,71.0,93.6,5,94.1,4,Outstanding,Placed,3
+SPJ20238976,Student_228_Jan-24,student228@jan-24.spjain.edu,GMBA,Jan-24,2023,71.7,79.7,74.1,0,91.0,4,Outstanding,Not Placed,0
+SPJ20227455,Student_229_Jan-24,student229@jan-24.spjain.edu,GCGM,Jan-24,2022,79.2,83.9,79.2,3,84.2,3,Needs Handholding,Placed,3
+SPJ20248069,Student_230_Jan-22,student230@jan-22.spjain.edu,GCGM,Jan-22,2024,82.8,79.8,79.0,2,90.6,5,Average,Placed,4
+SPJ20244109,Student_231_Jul-22,student231@jul-22.spjain.edu,MGB,Jul-22,2024,77.7,89.3,87.9,3,81.9,5,Needs Handholding,Placed,4
+SPJ20236252,Student_232_Jul-22,student232@jul-22.spjain.edu,GCGM,Jul-22,2023,73.4,92.1,72.9,1,80.1,6,Good,Not Placed,0
+SPJ20223416,Student_233_Jul-24,student233@jul-24.spjain.edu,MGB,Jul-24,2022,72.5,82.9,82.8,1,94.0,7,Outstanding,Not Placed,0
+SPJ20246551,Student_234_Jul-22,student234@jul-22.spjain.edu,GMBA,Jul-22,2024,77.8,90.5,72.1,4,88.7,5,Good,Placed,5
+SPJ20245271,Student_235_Jul-22,student235@jul-22.spjain.edu,GCGM,Jul-22,2024,94.1,94.7,93.7,1,88.3,5,Good,Placed,2
+SPJ20248649,Student_236_Jan-22,student236@jan-22.spjain.edu,GCGM,Jan-22,2024,76.0,72.0,90.9,3,83.1,5,Average,Not Placed,0
+SPJ20244266,Student_237_Jul-23,student237@jul-23.spjain.edu,GMBA,Jul-23,2024,84.1,76.7,78.3,3,86.7,8,Average,Not Placed,0
+SPJ20234418,Student_238_Jul-22,student238@jul-22.spjain.edu,MGB,Jul-22,2023,79.3,81.8,91.4,3,93.6,7,Needs Handholding,Placed,4
+SPJ20226598,Student_239_Jul-22,student239@jul-22.spjain.edu,MGB,Jul-22,2022,74.4,77.1,70.6,1,93.5,7,Average,Placed,7
+SPJ20241221,Student_240_Jul-23,student240@jul-23.spjain.edu,GCGM,Jul-23,2024,73.6,89.7,79.3,3,81.0,6,Good,Placed,2
+SPJ20225338,Student_241_Jan-23,student241@jan-23.spjain.edu,MGB,Jan-23,2022,76.0,89.4,84.7,1,78.6,3,Average,Placed,3
+SPJ20248418,Student_242_Jan-24,student242@jan-24.spjain.edu,GMBA,Jan-24,2024,74.9,89.8,73.9,0,81.0,5,Average,Placed,1
+SPJ20229697,Student_243_Jul-23,student243@jul-23.spjain.edu,GMBA,Jul-23,2022,86.4,81.4,72.6,0,85.7,8,Outstanding,Not Placed,0
+SPJ20223562,Student_244_Jul-22,student244@jul-22.spjain.edu,MGB,Jul-22,2022,93.3,72.0,88.2,0,93.3,7,Average,Not Placed,0
+SPJ20249146,Student_245_Jan-23,student245@jan-23.spjain.edu,GCGM,Jan-23,2024,77.0,92.4,80.8,3,80.2,8,Needs Handholding,Placed,2
+SPJ20228582,Student_246_Jul-24,student246@jul-24.spjain.edu,GCGM,Jul-24,2022,91.7,93.3,86.9,3,90.9,8,Good,Placed,8
+SPJ20243498,Student_247_Jul-22,student247@jul-22.spjain.edu,MGB,Jul-22,2024,80.7,87.0,80.2,1,75.1,5,Outstanding,Placed,3
+SPJ20223919,Student_248_Jan-24,student248@jan-24.spjain.edu,MGB,Jan-24,2022,70.6,93.4,78.1,5,94.7,3,Outstanding,Placed,2
+SPJ20223022,Student_249_Jul-22,student249@jul-22.spjain.edu,GMBA,Jul-22,2022,77.7,78.0,86.6,0,83.5,7,Average,Placed,5
+SPJ20246751,Student_250_Jul-23,student250@jul-23.spjain.edu,GCGM,Jul-23,2024,90.2,87.4,82.4,0,79.0,4,Needs Handholding,Not Placed,0
+SPJ20243094,Student_251_Jul-22,student251@jul-22.spjain.edu,GMBA,Jul-22,2024,89.4,74.4,88.0,5,78.7,8,Needs Handholding,Placed,6
+SPJ20249555,Student_252_Jan-23,student252@jan-23.spjain.edu,GMBA,Jan-23,2024,78.8,92.3,86.5,0,78.0,4,Needs Handholding,Placed,2
+SPJ20222427,Student_253_Jan-24,student253@jan-24.spjain.edu,GMBA,Jan-24,2022,70.0,79.1,81.8,1,79.5,4,Needs Handholding,Not Placed,0
+SPJ20223595,Student_254_Jan-23,student254@jan-23.spjain.edu,GMBA,Jan-23,2022,81.7,72.3,71.2,0,85.2,6,Needs Handholding,Placed,5
+SPJ20222468,Student_255_Jul-23,student255@jul-23.spjain.edu,GCGM,Jul-23,2022,72.5,82.3,73.9,1,87.9,7,Good,Placed,6
+SPJ20243146,Student_256_Jul-24,student256@jul-24.spjain.edu,MGB,Jul-24,2024,80.9,87.7,76.6,3,84.6,5,Needs Handholding,Not Placed,0
+SPJ20225157,Student_257_Jul-22,student257@jul-22.spjain.edu,GCGM,Jul-22,2022,94.6,94.6,73.5,2,85.2,8,Outstanding,Not Placed,0
+SPJ20243998,Student_258_Jan-23,student258@jan-23.spjain.edu,GCGM,Jan-23,2024,94.8,91.5,84.2,0,89.7,5,Needs Handholding,Placed,4
+SPJ20227501,Student_259_Jan-23,student259@jan-23.spjain.edu,GMBA,Jan-23,2022,79.3,71.2,79.7,1,76.3,8,Outstanding,Placed,5
+SPJ20233432,Student_260_Jul-23,student260@jul-23.spjain.edu,GMBA,Jul-23,2023,72.6,75.9,82.1,1,92.1,5,Outstanding,Not Placed,0
+SPJ20227326,Student_261_Jul-24,student261@jul-24.spjain.edu,GCGM,Jul-24,2022,75.5,79.6,80.0,1,88.3,4,Needs Handholding,Not Placed,0
+SPJ20242416,Student_262_Jan-23,student262@jan-23.spjain.edu,GCGM,Jan-23,2024,76.9,81.9,79.0,0,91.0,8,Outstanding,Not Placed,0
+SPJ20234465,Student_263_Jul-24,student263@jul-24.spjain.edu,MGB,Jul-24,2023,71.8,84.2,93.0,2,83.6,3,Outstanding,Not Placed,0
+SPJ20233593,Student_264_Jan-23,student264@jan-23.spjain.edu,GMBA,Jan-23,2023,83.7,78.9,74.6,0,91.2,3,Average,Placed,2
+SPJ20227611,Student_265_Jan-22,student265@jan-22.spjain.edu,GMBA,Jan-22,2022,85.6,86.3,72.4,0,81.1,4,Good,Not Placed,0
+SPJ20248927,Student_266_Jan-24,student266@jan-24.spjain.edu,MGB,Jan-24,2024,86.2,80.1,84.2,3,79.3,4,Needs Handholding,Not Placed,0
+SPJ20246773,Student_267_Jan-22,student267@jan-22.spjain.edu,GCGM,Jan-22,2024,94.6,74.6,80.9,0,84.2,5,Needs Handholding,Not Placed,0
+SPJ20226058,Student_268_Jul-24,student268@jul-24.spjain.edu,GCGM,Jul-24,2022,93.5,87.1,92.5,1,77.3,3,Needs Handholding,Not Placed,0
+SPJ20242134,Student_269_Jan-22,student269@jan-22.spjain.edu,GCGM,Jan-22,2024,86.8,89.6,85.9,0,77.5,3,Good,Placed,3
+SPJ20231019,Student_270_Jan-22,student270@jan-22.spjain.edu,MGB,Jan-22,2023,82.2,79.5,94.8,5,84.1,5,Needs Handholding,Placed,1
+SPJ20246071,Student_271_Jul-23,student271@jul-23.spjain.edu,GCGM,Jul-23,2024,81.6,77.7,83.6,3,83.0,7,Needs Handholding,Not Placed,0
+SPJ20225002,Student_272_Jul-23,student272@jul-23.spjain.edu,GCGM,Jul-23,2022,79.6,78.7,87.3,1,92.2,3,Outstanding,Not Placed,0
+SPJ20248231,Student_273_Jan-23,student273@jan-23.spjain.edu,MGB,Jan-23,2024,75.5,75.0,84.7,2,86.3,7,Good,Not Placed,0
+SPJ20241130,Student_274_Jan-22,student274@jan-22.spjain.edu,GCGM,Jan-22,2024,84.1,79.0,84.2,1,81.4,3,Average,Not Placed,0
+SPJ20239593,Student_275_Jan-23,student275@jan-23.spjain.edu,GCGM,Jan-23,2023,72.8,83.2,81.6,1,81.0,3,Average,Not Placed,0
+SPJ20245288,Student_276_Jan-24,student276@jan-24.spjain.edu,GMBA,Jan-24,2024,89.1,85.3,78.7,3,88.1,4,Average,Not Placed,0
+SPJ20225234,Student_277_Jul-24,student277@jul-24.spjain.edu,MGB,Jul-24,2022,77.7,76.4,71.8,0,82.9,7,Good,Placed,7
+SPJ20231782,Student_278_Jan-24,student278@jan-24.spjain.edu,MGB,Jan-24,2023,77.1,84.4,76.7,2,75.3,8,Good,Placed,4
+SPJ20243583,Student_279_Jan-23,student279@jan-23.spjain.edu,GMBA,Jan-23,2024,80.5,85.1,81.9,2,88.4,7,Average,Placed,2
+SPJ20247763,Student_280_Jan-22,student280@jan-22.spjain.edu,GCGM,Jan-22,2024,81.1,71.5,74.3,0,84.6,5,Average,Placed,3
+SPJ20235987,Student_281_Jan-23,student281@jan-23.spjain.edu,MGB,Jan-23,2023,90.0,73.3,89.4,0,75.2,5,Average,Not Placed,0
+SPJ20224342,Student_282_Jan-22,student282@jan-22.spjain.edu,MGB,Jan-22,2022,88.1,75.6,71.4,0,92.9,5,Outstanding,Placed,1
+SPJ20231037,Student_283_Jul-23,student283@jul-23.spjain.edu,GMBA,Jul-23,2023,91.5,91.6,83.2,3,78.8,7,Average,Not Placed,0
+SPJ20227497,Student_284_Jul-23,student284@jul-23.spjain.edu,GMBA,Jul-23,2022,93.1,85.2,93.6,2,86.1,4,Average,Not Placed,0
+SPJ20223581,Student_285_Jul-22,student285@jul-22.spjain.edu,MGB,Jul-22,2022,71.8,93.4,83.8,0,80.9,4,Good,Not Placed,0
+SPJ20224800,Student_286_Jul-24,student286@jul-24.spjain.edu,GMBA,Jul-24,2022,70.8,76.2,77.8,1,80.3,4,Outstanding,Placed,3
+SPJ20245597,Student_287_Jul-23,student287@jul-23.spjain.edu,GMBA,Jul-23,2024,84.5,82.6,87.3,4,91.6,3,Average,Placed,3
+SPJ20224085,Student_288_Jan-24,student288@jan-24.spjain.edu,MGB,Jan-24,2022,73.8,90.1,72.2,3,92.8,3,Needs Handholding,Not Placed,0
+SPJ20227403,Student_289_Jan-23,student289@jan-23.spjain.edu,GCGM,Jan-23,2022,91.0,71.5,75.7,0,78.3,7,Average,Not Placed,0
+SPJ20233233,Student_290_Jul-22,student290@jul-22.spjain.edu,MGB,Jul-22,2023,88.8,88.2,88.8,0,79.0,7,Good,Placed,1
+SPJ20238675,Student_291_Jul-22,student291@jul-22.spjain.edu,GCGM,Jul-22,2023,80.0,94.8,75.4,0,75.4,4,Average,Not Placed,0
+SPJ20243326,Student_292_Jan-22,student292@jan-22.spjain.edu,MGB,Jan-22,2024,87.3,86.8,80.7,2,93.7,3,Needs Handholding,Not Placed,0
+SPJ20243835,Student_293_Jan-24,student293@jan-24.spjain.edu,MGB,Jan-24,2024,78.7,90.3,76.2,0,80.6,5,Good,Placed,1
+SPJ20249850,Student_294_Jul-24,student294@jul-24.spjain.edu,GCGM,Jul-24,2024,83.9,76.5,82.2,0,79.3,8,Good,Placed,3
+SPJ20221853,Student_295_Jul-23,student295@jul-23.spjain.edu,MGB,Jul-23,2022,93.7,90.0,90.2,0,84.1,4,Good,Placed,3
+SPJ20236261,Student_296_Jan-22,student296@jan-22.spjain.edu,MGB,Jan-22,2023,90.4,88.1,92.9,3,89.6,3,Needs Handholding,Not Placed,0
+SPJ20223524,Student_297_Jul-23,student297@jul-23.spjain.edu,MGB,Jul-23,2022,85.6,90.8,93.4,1,76.0,5,Good,Not Placed,0
+SPJ20247458,Student_298_Jul-23,student298@jul-23.spjain.edu,GMBA,Jul-23,2024,73.7,82.6,93.3,0,81.3,3,Average,Not Placed,0
+SPJ20242633,Student_299_Jan-23,student299@jan-23.spjain.edu,GMBA,Jan-23,2024,76.4,82.7,88.5,1,80.0,4,Needs Handholding,Placed,2
+SPJ20228445,Student_300_Jan-22,student300@jan-22.spjain.edu,GCGM,Jan-22,2022,94.5,73.0,81.4,0,79.7,5,Needs Handholding,Placed,1
+SPJ20233919,Student_301_Jul-23,student301@jul-23.spjain.edu,GCGM,Jul-23,2023,87.3,89.9,93.3,1,82.1,7,Average,Not Placed,0
+SPJ20245092,Student_302_Jan-23,student302@jan-23.spjain.edu,GMBA,Jan-23,2024,92.1,89.1,82.3,0,77.8,6,Needs Handholding,Not Placed,0
+SPJ20235270,Student_303_Jan-24,student303@jan-24.spjain.edu,GCGM,Jan-24,2023,74.5,70.5,91.4,0,77.3,4,Needs Handholding,Not Placed,0
+SPJ20238255,Student_304_Jul-24,student304@jul-24.spjain.edu,GMBA,Jul-24,2023,91.2,74.8,74.9,0,79.0,5,Average,Not Placed,0
+SPJ20247185,Student_305_Jan-23,student305@jan-23.spjain.edu,GCGM,Jan-23,2024,91.0,82.5,85.0,0,80.4,3,Good,Placed,2
+SPJ20237998,Student_306_Jul-24,student306@jul-24.spjain.edu,GMBA,Jul-24,2023,71.8,89.2,77.8,3,80.1,8,Good,Not Placed,0
+SPJ20226224,Student_307_Jul-24,student307@jul-24.spjain.edu,GMBA,Jul-24,2022,74.0,91.9,88.5,1,80.4,6,Needs Handholding,Not Placed,0
+SPJ20233583,Student_308_Jul-22,student308@jul-22.spjain.edu,GCGM,Jul-22,2023,84.2,70.4,72.0,2,85.9,4,Good,Placed,3
+SPJ20237590,Student_309_Jan-24,student309@jan-24.spjain.edu,GCGM,Jan-24,2023,72.9,78.1,91.6,1,75.8,7,Average,Not Placed,0
+SPJ20228069,Student_310_Jul-23,student310@jul-23.spjain.edu,GCGM,Jul-23,2022,81.6,88.0,73.9,1,91.5,8,Average,Placed,1
+SPJ20231714,Student_311_Jan-22,student311@jan-22.spjain.edu,MGB,Jan-22,2023,86.6,85.6,70.7,2,76.9,4,Outstanding,Placed,1
+SPJ20247096,Student_312_Jan-24,student312@jan-24.spjain.edu,MGB,Jan-24,2024,91.3,75.6,91.4,0,78.5,4,Outstanding,Placed,1
+SPJ20247577,Student_313_Jan-23,student313@jan-23.spjain.edu,GMBA,Jan-23,2024,86.6,92.1,87.8,1,92.4,7,Needs Handholding,Not Placed,0
+SPJ20221697,Student_314_Jan-22,student314@jan-22.spjain.edu,MGB,Jan-22,2022,89.1,72.7,78.2,4,76.2,5,Average,Placed,1
+SPJ20247581,Student_315_Jul-22,student315@jul-22.spjain.edu,MGB,Jul-22,2024,93.2,92.9,82.4,3,79.9,5,Average,Not Placed,0
+SPJ20243372,Student_316_Jul-23,student316@jul-23.spjain.edu,MGB,Jul-23,2024,77.8,88.6,84.9,0,80.9,4,Outstanding,Placed,4
+SPJ20228956,Student_317_Jan-22,student317@jan-22.spjain.edu,GCGM,Jan-22,2022,74.6,77.6,71.6,1,87.2,7,Good,Placed,3
+SPJ20243635,Student_318_Jan-24,student318@jan-24.spjain.edu,GMBA,Jan-24,2024,91.6,72.3,91.6,1,91.5,6,Average,Placed,6
+SPJ20221088,Student_319_Jul-24,student319@jul-24.spjain.edu,GMBA,Jul-24,2022,72.8,83.7,71.4,3,83.2,8,Good,Placed,1
+SPJ20243940,Student_320_Jul-22,student320@jul-22.spjain.edu,MGB,Jul-22,2024,74.0,78.4,83.6,0,75.1,8,Outstanding,Not Placed,0
+SPJ20248390,Student_321_Jul-22,student321@jul-22.spjain.edu,MGB,Jul-22,2024,92.5,83.7,70.0,1,93.5,7,Good,Placed,1
+SPJ20244339,Student_322_Jan-24,student322@jan-24.spjain.edu,MGB,Jan-24,2024,80.8,90.6,88.9,0,78.5,7,Good,Not Placed,0
+SPJ20235992,Student_323_Jul-23,student323@jul-23.spjain.edu,GCGM,Jul-23,2023,92.5,72.1,78.4,1,78.5,6,Outstanding,Placed,4
+SPJ20224061,Student_324_Jan-22,student324@jan-22.spjain.edu,GCGM,Jan-22,2022,74.7,86.6,89.8,0,89.3,4,Outstanding,Placed,3
+SPJ20242556,Student_325_Jul-24,student325@jul-24.spjain.edu,MGB,Jul-24,2024,88.2,71.6,81.9,1,94.1,6,Needs Handholding,Not Placed,0
+SPJ20235052,Student_326_Jan-22,student326@jan-22.spjain.edu,GMBA,Jan-22,2023,88.9,88.1,90.6,0,87.7,7,Outstanding,Not Placed,0
+SPJ20225897,Student_327_Jan-24,student327@jan-24.spjain.edu,GCGM,Jan-24,2022,81.7,81.1,80.2,4,88.9,5,Needs Handholding,Placed,5
+SPJ20233798,Student_328_Jul-24,student328@jul-24.spjain.edu,MGB,Jul-24,2023,74.5,86.9,94.8,2,82.8,5,Needs Handholding,Not Placed,0
+SPJ20241147,Student_329_Jan-23,student329@jan-23.spjain.edu,GMBA,Jan-23,2024,90.7,73.5,81.2,1,81.9,4,Average,Not Placed,0
+SPJ20235989,Student_330_Jul-24,student330@jul-24.spjain.edu,MGB,Jul-24,2023,92.2,84.5,85.2,2,87.5,4,Needs Handholding,Not Placed,0
+SPJ20246766,Student_331_Jul-23,student331@jul-23.spjain.edu,GCGM,Jul-23,2024,85.5,82.1,84.1,4,84.1,8,Needs Handholding,Not Placed,0
+SPJ20248570,Student_332_Jan-24,student332@jan-24.spjain.edu,GMBA,Jan-24,2024,77.1,76.9,93.8,2,91.0,5,Outstanding,Not Placed,0
+SPJ20239744,Student_333_Jan-23,student333@jan-23.spjain.edu,GCGM,Jan-23,2023,83.0,85.7,75.2,4,91.2,3,Needs Handholding,Not Placed,0
+SPJ20233687,Student_334_Jan-23,student334@jan-23.spjain.edu,GCGM,Jan-23,2023,77.9,89.8,74.2,3,92.5,5,Good,Placed,1
+SPJ20236874,Student_335_Jul-22,student335@jul-22.spjain.edu,MGB,Jul-22,2023,71.0,80.0,83.8,0,91.8,4,Average,Not Placed,0
+SPJ20229861,Student_336_Jan-22,student336@jan-22.spjain.edu,GMBA,Jan-22,2022,70.0,91.9,84.3,2,91.1,5,Needs Handholding,Not Placed,0
+SPJ20247071,Student_337_Jul-22,student337@jul-22.spjain.edu,GMBA,Jul-22,2024,84.9,81.8,90.8,1,83.3,4,Outstanding,Placed,4
+SPJ20226856,Student_338_Jan-22,student338@jan-22.spjain.edu,GCGM,Jan-22,2022,75.3,87.0,88.0,0,86.8,7,Average,Placed,1
+SPJ20221848,Student_339_Jan-23,student339@jan-23.spjain.edu,MGB,Jan-23,2022,83.9,89.2,74.8,4,88.3,5,Needs Handholding,Not Placed,0
+SPJ20244343,Student_340_Jul-23,student340@jul-23.spjain.edu,GMBA,Jul-23,2024,92.8,86.3,83.3,1,92.6,3,Outstanding,Placed,3
+SPJ20248929,Student_341_Jan-23,student341@jan-23.spjain.edu,MGB,Jan-23,2024,73.1,75.8,93.0,2,77.6,7,Outstanding,Not Placed,0
+SPJ20232914,Student_342_Jul-24,student342@jul-24.spjain.edu,MGB,Jul-24,2023,93.9,84.0,93.2,1,81.0,3,Needs Handholding,Placed,1
+SPJ20244865,Student_343_Jan-23,student343@jan-23.spjain.edu,MGB,Jan-23,2024,84.9,91.8,73.4,1,78.7,4,Outstanding,Placed,3
+SPJ20246335,Student_344_Jul-24,student344@jul-24.spjain.edu,GCGM,Jul-24,2024,86.5,81.0,70.7,2,84.6,6,Average,Not Placed,0
+SPJ20225709,Student_345_Jan-24,student345@jan-24.spjain.edu,MGB,Jan-24,2022,85.0,78.2,72.4,2,79.5,3,Needs Handholding,Placed,1
+SPJ20232497,Student_346_Jul-24,student346@jul-24.spjain.edu,MGB,Jul-24,2023,75.5,74.2,90.7,0,75.1,4,Needs Handholding,Placed,2
+SPJ20236259,Student_347_Jul-24,student347@jul-24.spjain.edu,GCGM,Jul-24,2023,75.9,89.5,73.6,3,78.1,5,Good,Not Placed,0
+SPJ20232661,Student_348_Jul-24,student348@jul-24.spjain.edu,GMBA,Jul-24,2023,83.9,74.3,84.6,1,88.6,5,Good,Not Placed,0
+SPJ20246054,Student_349_Jan-22,student349@jan-22.spjain.edu,MGB,Jan-22,2024,78.2,79.2,72.1,0,81.7,3,Outstanding,Not Placed,0
+SPJ20239665,Student_350_Jan-22,student350@jan-22.spjain.edu,GMBA,Jan-22,2023,81.2,77.7,81.8,1,82.1,4,Average,Not Placed,0
+SPJ20245741,Student_351_Jul-24,student351@jul-24.spjain.edu,GMBA,Jul-24,2024,77.4,90.8,91.1,1,86.6,8,Needs Handholding,Placed,5
+SPJ20224293,Student_352_Jul-22,student352@jul-22.spjain.edu,GMBA,Jul-22,2022,78.3,82.2,83.4,0,77.5,4,Needs Handholding,Placed,1
+SPJ20243852,Student_353_Jul-24,student353@jul-24.spjain.edu,GCGM,Jul-24,2024,93.0,94.5,80.7,1,85.1,4,Outstanding,Not Placed,0
+SPJ20236009,Student_354_Jan-24,student354@jan-24.spjain.edu,MGB,Jan-24,2023,74.9,77.1,83.9,1,88.7,5,Good,Placed,4
+SPJ20247960,Student_355_Jan-23,student355@jan-23.spjain.edu,MGB,Jan-23,2024,75.3,78.2,75.7,0,77.0,7,Outstanding,Not Placed,0
+SPJ20224677,Student_356_Jul-23,student356@jul-23.spjain.edu,GMBA,Jul-23,2022,77.3,91.7,82.4,3,89.8,4,Needs Handholding,Placed,3
+SPJ20222837,Student_357_Jul-23,student357@jul-23.spjain.edu,GCGM,Jul-23,2022,84.7,84.4,92.2,2,94.4,5,Outstanding,Placed,1
+SPJ20242392,Student_358_Jan-24,student358@jan-24.spjain.edu,GCGM,Jan-24,2024,83.9,82.0,84.4,1,91.7,8,Average,Placed,2
+SPJ20237073,Student_359_Jan-24,student359@jan-24.spjain.edu,GMBA,Jan-24,2023,86.6,77.3,77.2,3,80.5,7,Average,Not Placed,0
+SPJ20242821,Student_360_Jul-22,student360@jul-22.spjain.edu,MGB,Jul-22,2024,92.8,79.3,89.4,2,87.7,7,Average,Placed,5
+SPJ20229664,Student_361_Jan-22,student361@jan-22.spjain.edu,GMBA,Jan-22,2022,73.6,81.0,84.6,4,88.2,8,Outstanding,Placed,5
+SPJ20246385,Student_362_Jul-22,student362@jul-22.spjain.edu,GMBA,Jul-22,2024,85.2,91.5,92.5,0,93.5,7,Average,Not Placed,0
+SPJ20229653,Student_363_Jan-23,student363@jan-23.spjain.edu,GCGM,Jan-23,2022,80.6,89.0,74.0,4,77.1,4,Good,Placed,2
+SPJ20236514,Student_364_Jan-23,student364@jan-23.spjain.edu,GMBA,Jan-23,2023,91.2,72.9,72.0,2,94.7,6,Outstanding,Not Placed,0
+SPJ20221769,Student_365_Jan-22,student365@jan-22.spjain.edu,GMBA,Jan-22,2022,88.4,85.4,92.9,5,91.9,3,Needs Handholding,Not Placed,0
+SPJ20229267,Student_366_Jan-23,student366@jan-23.spjain.edu,MGB,Jan-23,2022,84.0,80.6,80.6,0,91.5,5,Outstanding,Not Placed,0
+SPJ20244950,Student_367_Jan-22,student367@jan-22.spjain.edu,GMBA,Jan-22,2024,81.6,88.7,89.2,1,77.5,6,Outstanding,Placed,1
+SPJ20222986,Student_368_Jan-22,student368@jan-22.spjain.edu,GMBA,Jan-22,2022,76.2,91.4,73.1,3,81.1,8,Average,Not Placed,0
+SPJ20236369,Student_369_Jul-24,student369@jul-24.spjain.edu,GCGM,Jul-24,2023,71.1,71.5,83.3,0,92.1,8,Outstanding,Placed,5
+SPJ20232292,Student_370_Jul-22,student370@jul-22.spjain.edu,GCGM,Jul-22,2023,75.3,81.5,80.0,3,79.1,6,Good,Not Placed,0
+SPJ20236470,Student_371_Jul-24,student371@jul-24.spjain.edu,GCGM,Jul-24,2023,82.7,85.0,84.2,1,79.8,7,Outstanding,Placed,6
+SPJ20238984,Student_372_Jan-23,student372@jan-23.spjain.edu,GMBA,Jan-23,2023,72.3,85.8,77.3,0,88.0,6,Needs Handholding,Placed,5
+SPJ20238725,Student_373_Jul-22,student373@jul-22.spjain.edu,GMBA,Jul-22,2023,78.7,91.9,72.5,1,82.9,8,Outstanding,Placed,4
+SPJ20237188,Student_374_Jul-22,student374@jul-22.spjain.edu,MGB,Jul-22,2023,70.7,74.0,84.9,3,75.1,4,Average,Placed,1
+SPJ20229772,Student_375_Jan-23,student375@jan-23.spjain.edu,MGB,Jan-23,2022,90.4,87.1,71.9,1,94.2,5,Good,Not Placed,0
+SPJ20234506,Student_376_Jan-23,student376@jan-23.spjain.edu,GMBA,Jan-23,2023,90.7,71.1,79.3,0,78.8,7,Outstanding,Placed,4
+SPJ20222901,Student_377_Jan-23,student377@jan-23.spjain.edu,GCGM,Jan-23,2022,82.2,75.2,73.4,0,80.3,5,Average,Not Placed,0
+SPJ20227588,Student_378_Jan-24,student378@jan-24.spjain.edu,GMBA,Jan-24,2022,84.8,89.9,93.2,3,86.5,3,Needs Handholding,Not Placed,0
+SPJ20245417,Student_379_Jul-24,student379@jul-24.spjain.edu,MGB,Jul-24,2024,91.5,85.7,87.3,0,78.5,7,Average,Not Placed,0
+SPJ20225356,Student_380_Jan-23,student380@jan-23.spjain.edu,MGB,Jan-23,2022,91.4,75.9,90.8,3,77.7,6,Outstanding,Not Placed,0
+SPJ20244412,Student_381_Jan-22,student381@jan-22.spjain.edu,GCGM,Jan-22,2024,94.2,90.2,94.0,0,90.2,5,Outstanding,Placed,3
+SPJ20247630,Student_382_Jan-24,student382@jan-24.spjain.edu,GMBA,Jan-24,2024,92.5,82.7,75.1,3,88.0,5,Good,Placed,2
+SPJ20237867,Student_383_Jul-23,student383@jul-23.spjain.edu,MGB,Jul-23,2023,70.3,76.3,75.8,0,87.5,3,Average,Placed,3
+SPJ20241570,Student_384_Jul-22,student384@jul-22.spjain.edu,GCGM,Jul-22,2024,73.2,73.3,76.6,0,93.5,3,Good,Placed,1
+SPJ20232633,Student_385_Jul-24,student385@jul-24.spjain.edu,GMBA,Jul-24,2023,81.3,73.3,76.7,0,75.4,8,Needs Handholding,Not Placed,0
+SPJ20222618,Student_386_Jul-22,student386@jul-22.spjain.edu,GMBA,Jul-22,2022,76.8,94.9,76.0,5,76.5,7,Needs Handholding,Not Placed,0
+SPJ20225190,Student_387_Jul-22,student387@jul-22.spjain.edu,GMBA,Jul-22,2022,88.8,83.6,81.6,5,89.7,6,Good,Not Placed,0
+SPJ20227868,Student_388_Jul-23,student388@jul-23.spjain.edu,GMBA,Jul-23,2022,74.6,79.3,94.8,1,78.7,3,Average,Placed,1
+SPJ20248780,Student_389_Jan-22,student389@jan-22.spjain.edu,GCGM,Jan-22,2024,90.7,71.3,74.8,4,83.6,8,Needs Handholding,Placed,1
+SPJ20247784,Student_390_Jul-22,student390@jul-22.spjain.edu,GCGM,Jul-22,2024,80.0,87.4,74.2,0,75.6,5,Good,Not Placed,0
+SPJ20221491,Student_391_Jul-22,student391@jul-22.spjain.edu,GMBA,Jul-22,2022,84.3,74.9,94.0,0,75.2,6,Needs Handholding,Not Placed,0
+SPJ20231567,Student_392_Jan-22,student392@jan-22.spjain.edu,GCGM,Jan-22,2023,76.1,78.3,89.9,0,91.0,4,Needs Handholding,Placed,2
+SPJ20227387,Student_393_Jul-23,student393@jul-23.spjain.edu,GMBA,Jul-23,2022,74.0,72.7,83.5,4,75.8,7,Needs Handholding,Placed,6
+SPJ20222120,Student_394_Jul-22,student394@jul-22.spjain.edu,MGB,Jul-22,2022,73.0,90.1,76.3,3,90.8,6,Outstanding,Placed,5
+SPJ20233362,Student_395_Jan-22,student395@jan-22.spjain.edu,MGB,Jan-22,2023,76.4,76.1,71.3,0,90.2,5,Good,Placed,3
+SPJ20235998,Student_396_Jul-24,student396@jul-24.spjain.edu,GCGM,Jul-24,2023,70.4,78.6,75.4,2,90.1,4,Outstanding,Not Placed,0
+SPJ20233138,Student_397_Jul-23,student397@jul-23.spjain.edu,GMBA,Jul-23,2023,92.1,79.4,70.6,1,87.8,5,Average,Placed,2
+SPJ20226651,Student_398_Jul-23,student398@jul-23.spjain.edu,MGB,Jul-23,2022,86.3,85.1,77.5,0,94.4,8,Good,Not Placed,0
+SPJ20248042,Student_399_Jan-23,student399@jan-23.spjain.edu,GMBA,Jan-23,2024,83.5,72.8,70.9,0,86.5,3,Average,Placed,1
+SPJ20248595,Student_400_Jul-23,student400@jul-23.spjain.edu,GMBA,Jul-23,2024,77.1,85.2,83.4,2,84.6,6,Needs Handholding,Placed,2
