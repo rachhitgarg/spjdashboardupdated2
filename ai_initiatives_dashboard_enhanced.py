@@ -10,8 +10,7 @@ warnings.filterwarnings('ignore')
 from data_manager import DataManager
 import os
 from datetime import datetime
-import seaborn as sns
-import matplotlib.pyplot as plt
+# Removed unused imports: seaborn and matplotlib
 
 # Page configuration
 st.set_page_config(
